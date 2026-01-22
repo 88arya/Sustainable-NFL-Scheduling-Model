@@ -8,7 +8,6 @@ The chart below compares the total travel-related carbon emissions (in metric to
 
 ![Emissions Comparison](results/emissions_comparison_bar_metric_tonnes.png)
 
----
 
 ## Raw Data
 
@@ -25,7 +24,16 @@ The chart below compares the total travel-related carbon emissions (in metric to
 
 </details>
 
---- 
+## How it Works
+
+1. Matchup Algorithm  
+   NFL season matchups are determined using the previous season’s in-division rankings of each team and a rotating schedule of divisional matchups. Playwright was used to scrape the official NFL website to obtain these rankings which were fed through an algorithm to generate each season’s matchups.
+
+2. Optimization Model  
+   A Binary Integer Programming model was formulated in PuLP and solved using CBC to produce a season schedule that minimizes travel-related carbon emissions.
+
+3. Benchmarking  
+   The SportsBlaze API was used to fetch the actual NFL schedules, which were then compared to the optimized schedules to evaluate carbon savings.
 
 The optimal NFL schedule for each year can be found in:
 

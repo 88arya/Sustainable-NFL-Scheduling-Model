@@ -14,8 +14,8 @@ width = 0.35
 
 fig, ax = plt.subplots(figsize=(10,6))
 
-rects1 = ax.bar(x - width/2, df['actual_value'], width, label='Actual')
-rects2 = ax.bar(x + width/2, df['optimal_value'], width, label='Optimal')
+rects1 = ax.bar(x - width/2, df['actual_value'], width, label='Actual', color='navy')
+rects2 = ax.bar(x + width/2, df['optimal_value'], width, label='Optimal', color='green')
 
 ax.set_xlabel('Year')
 ax.set_ylabel('CO2 Emissions (metric tonnes)')
