@@ -2,6 +2,12 @@
 
 The NFL leads all major U.S. sports leagues in terms of carbon footprint per game, primarily due to team travel. This project uses a Binary Integer Programming (BIP) model to generate an NFL season schedule that is most carbon-efficient with respect to travel.
 
+The optimal NFL schedule for each year can be found in:
+
+```text
+model/output/<year>/<year>_schedule.csv
+```
+
 ## Results
 
 The chart below compares the total travel-related carbon emissions (in metric tonnes of CO₂) for the actual NFL schedules versus the optimal schedule produced by the model for every applicable year.
@@ -26,16 +32,10 @@ The chart below compares the total travel-related carbon emissions (in metric to
 
 ## How it Works
 
-1. Matchup Algorithm  
-   NFL season matchups are determined using the previous season’s in-division rankings of each team and a rotating schedule of divisional matchups. Playwright was used to scrape the official NFL website to obtain these rankings which were fed through an algorithm to generate each season’s matchups.
+1. NFL season matchups are determined by a rotating schedule of cross-division opponents combined with each team’s in-division ranking from the previous season. Playwright was used to scrape the official NFL website to obtain these divisional rankings. An algorithm then applied the NFL’s scheduling rules to generate the complete set of matchups for the season.
 
-2. Optimization Model  
-   A Binary Integer Programming model was formulated in PuLP and solved using CBC to produce a season schedule that minimizes travel-related carbon emissions.
+2. To estimate travel distances, Nominatim was used to geocode each team’s primary locations, including their headquarters, home stadium, and nearest major airport. Road travel distances were computed using Project OSRM, while flight distances were calculated using the Haversine formula. These distances were then converted into estimated carbon emissions based on the mode of travel.
 
-3. Benchmarking  
-   The SportsBlaze API was used to fetch the actual NFL schedules, which were then compared to the optimized schedules to evaluate carbon savings.
+3. A Binary Integer Programming (BIP) model was formulated in PuLP and solved with CBC to generate a full 18-week schedule that minimizes total travel-related carbon emissions. The SportsBlaze API was used to retrieve the actual NFL season schedules. These real-world schedules were compared against the optimized schedule to evaluate the model and quantify carbon emission savings.
 
-The optimal NFL schedule for each year can be found in:
 
-```text
-model/output/<year>/<year>_schedule.csv
