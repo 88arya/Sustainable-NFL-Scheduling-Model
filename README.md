@@ -15,7 +15,7 @@ The chart below compares the total travel-related carbon emissions (in metric to
 <details>
 <summary>Click to expand</summary>
 
-| Year | Actual Schedule (metric tonnes CO₂) | Optimal Schedule (metric tonnes CO₂) | Percent Decrease (%) |
+| Year | Actual Schedule (metric tonnes CO₂) | Optimal Schedule (metric tonnes CO₂) | Percentage Decrease (%) |
 |------|------------------------------------|-------------------------------------|--------------------|
 | 2021 | 10,421.56                          | 9,793.20                            | 6.03               |
 | 2022 | 9,290.36                           | 8,823.58                            | 5.02               |
@@ -23,7 +23,7 @@ The chart below compares the total travel-related carbon emissions (in metric to
 | 2024 | 10,409.79                          | 9,845.80                            | 5.42               |
 | 2025 | 10,294.44                          | 9,706.58                            | 5.71               |
 
-<details>
+</details>
 
 --- 
 
