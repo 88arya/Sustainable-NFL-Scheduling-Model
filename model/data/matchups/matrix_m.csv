@@ -1,0 +1,33 @@
+,New England Patriots,Buffalo Bills,Miami Dolphins,New York Jets,Pittsburgh Steelers,Baltimore Ravens,Cincinnati Bengals,Cleveland Browns,Jacksonville Jaguars,Houston Texans,Indianapolis Colts,Tennessee Titans,Denver Broncos,Los Angeles Chargers,Kansas City Chiefs,Las Vegas Raiders,Philadelphia Eagles,Dallas Cowboys,Washington Commanders,New York Giants,Chicago Bears,Green Bay Packers,Minnesota Vikings,Detroit Lions,Carolina Panthers,Tampa Bay Buccaneers,Atlanta Falcons,New Orleans Saints,Seattle Seahawks,Los Angeles Rams,San Francisco 49ers,Arizona Cardinals
+New England Patriots,0,2,2,2,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0
+Buffalo Bills,2,0,2,2,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0
+Miami Dolphins,2,2,0,2,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0
+New York Jets,2,2,2,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1
+Pittsburgh Steelers,1,0,0,0,0,2,2,2,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+Baltimore Ravens,0,1,0,0,2,0,2,2,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+Cincinnati Bengals,0,0,1,0,2,2,0,2,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0
+Cleveland Browns,0,0,0,1,2,2,2,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0
+Jacksonville Jaguars,1,0,0,0,1,1,1,1,0,2,2,2,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Houston Texans,0,1,0,0,1,1,1,1,2,0,2,2,0,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Indianapolis Colts,0,0,1,0,1,1,1,1,2,2,0,2,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Tennessee Titans,0,0,0,1,1,1,1,1,2,2,2,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+Denver Broncos,1,1,1,1,1,0,0,0,1,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1
+Los Angeles Chargers,1,1,1,1,0,1,0,0,0,1,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1
+Kansas City Chiefs,1,1,1,1,0,0,1,0,0,0,1,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+Las Vegas Raiders,1,1,1,1,0,0,0,1,0,0,0,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+Philadelphia Eagles,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,2,2,2,1,0,0,0,1,0,0,0,1,1,1,1
+Dallas Cowboys,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,2,0,2,2,0,1,0,0,0,1,0,0,1,1,1,1
+Washington Commanders,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,2,2,0,2,0,0,1,0,0,0,1,0,1,1,1,1
+New York Giants,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,2,2,2,0,0,0,0,1,0,0,0,1,1,1,1,1
+Chicago Bears,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,2,2,1,1,1,1,1,0,0,0
+Green Bay Packers,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,2,2,1,1,1,1,0,1,0,0
+Minnesota Vikings,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,2,0,2,1,1,1,1,0,0,1,0
+Detroit Lions,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,2,0,1,1,1,1,0,0,0,1
+Carolina Panthers,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,2,2,2,1,0,0,0
+Tampa Bay Buccaneers,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,2,0,2,2,0,1,0,0
+Atlanta Falcons,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,1,2,2,0,2,0,0,1,0
+New Orleans Saints,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,2,2,2,0,0,0,0,1
+Seattle Seahawks,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,2,2,2
+Los Angeles Rams,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,2,0,2,2
+San Francisco 49ers,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,0,0,0,1,0,2,2,0,2
+Arizona Cardinals,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,1,2,2,2,0

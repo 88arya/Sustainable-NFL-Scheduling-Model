@@ -1,0 +1,577 @@
+team,week,opponent,home_away,slot
+Buffalo Bills,1,Green Bay Packers,Home,Sunday
+Buffalo Bills,2,Minnesota Vikings,Away,Sunday
+Buffalo Bills,3,Chicago Bears,Away,Sunday
+Buffalo Bills,4,Pittsburgh Steelers,Home,Sunday
+Buffalo Bills,5,BYE,-,-
+Buffalo Bills,6,New York Jets,Home,Sunday
+Buffalo Bills,7,Detroit Lions,Away,Sunday
+Buffalo Bills,8,Los Angeles Rams,Home,Sunday
+Buffalo Bills,9,Tennessee Titans,Home,Sunday
+Buffalo Bills,10,New England Patriots,Home,Monday
+Buffalo Bills,11,New York Jets,Away,Monday
+Buffalo Bills,12,Miami Dolphins,Home,Sunday
+Buffalo Bills,13,Cleveland Browns,Away,Sunday
+Buffalo Bills,14,Kansas City Chiefs,Away,Sunday
+Buffalo Bills,15,Baltimore Ravens,Away,Sunday
+Buffalo Bills,16,Cincinnati Bengals,Home,Sunday
+Buffalo Bills,17,Miami Dolphins,Away,Sunday
+Buffalo Bills,18,New England Patriots,Away,Sunday
+Miami Dolphins,1,New England Patriots,Home,Monday
+Miami Dolphins,2,Houston Texans,Home,Sunday
+Miami Dolphins,3,Green Bay Packers,Home,Sunday
+Miami Dolphins,4,Baltimore Ravens,Away,Sunday
+Miami Dolphins,5,New England Patriots,Away,Thursday
+Miami Dolphins,6,Los Angeles Chargers,Home,Sunday
+Miami Dolphins,7,Cleveland Browns,Home,Sunday
+Miami Dolphins,8,BYE,-,-
+Miami Dolphins,9,Chicago Bears,Away,Sunday
+Miami Dolphins,10,Pittsburgh Steelers,Away,Thursday
+Miami Dolphins,11,Minnesota Vikings,Home,Sunday
+Miami Dolphins,12,Buffalo Bills,Away,Sunday
+Miami Dolphins,13,Detroit Lions,Away,Thursday
+Miami Dolphins,14,Cincinnati Bengals,Home,Sunday
+Miami Dolphins,15,San Francisco 49ers,Away,Sunday
+Miami Dolphins,16,New York Jets,Away,Thursday
+Miami Dolphins,17,Buffalo Bills,Home,Sunday
+Miami Dolphins,18,New York Jets,Home,Sunday
+New England Patriots,1,Miami Dolphins,Away,Monday
+New England Patriots,2,Chicago Bears,Away,Sunday
+New England Patriots,3,Baltimore Ravens,Home,Sunday
+New England Patriots,4,New York Jets,Away,Monday
+New England Patriots,5,Miami Dolphins,Home,Thursday
+New England Patriots,6,BYE,-,-
+New England Patriots,7,Minnesota Vikings,Home,Sunday
+New England Patriots,8,Arizona Cardinals,Home,Monday
+New England Patriots,9,Detroit Lions,Home,Sunday
+New England Patriots,10,Buffalo Bills,Away,Monday
+New England Patriots,11,Indianapolis Colts,Home,Sunday
+New England Patriots,12,Green Bay Packers,Away,Sunday
+New England Patriots,13,Cincinnati Bengals,Away,Sunday
+New England Patriots,14,Pittsburgh Steelers,Away,Sunday
+New England Patriots,15,New York Jets,Home,Sunday
+New England Patriots,16,Cleveland Browns,Away,Sunday
+New England Patriots,17,Las Vegas Raiders,Home,Sunday
+New England Patriots,18,Buffalo Bills,Home,Sunday
+New York Jets,1,Detroit Lions,Home,Thursday
+New York Jets,2,Cleveland Browns,Away,Sunday
+New York Jets,3,Jacksonville Jaguars,Away,Sunday
+New York Jets,4,New England Patriots,Home,Monday
+New York Jets,5,Denver Broncos,Home,Sunday
+New York Jets,6,Buffalo Bills,Away,Sunday
+New York Jets,7,Green Bay Packers,Away,Sunday
+New York Jets,8,Baltimore Ravens,Home,Sunday
+New York Jets,9,Pittsburgh Steelers,Home,Sunday
+New York Jets,10,Minnesota Vikings,Away,Sunday
+New York Jets,11,Buffalo Bills,Home,Monday
+New York Jets,12,Seattle Seahawks,Home,Thursday
+New York Jets,13,Chicago Bears,Away,Sunday
+New York Jets,14,BYE,-,-
+New York Jets,15,New England Patriots,Away,Sunday
+New York Jets,16,Miami Dolphins,Home,Thursday
+New York Jets,17,Cincinnati Bengals,Away,Sunday
+New York Jets,18,Miami Dolphins,Away,Sunday
+Baltimore Ravens,1,Pittsburgh Steelers,Home,Sunday
+Baltimore Ravens,2,Cincinnati Bengals,Home,Sunday
+Baltimore Ravens,3,New England Patriots,Away,Sunday
+Baltimore Ravens,4,Miami Dolphins,Home,Sunday
+Baltimore Ravens,5,BYE,-,-
+Baltimore Ravens,6,Cleveland Browns,Away,Sunday
+Baltimore Ravens,7,Jacksonville Jaguars,Home,Sunday
+Baltimore Ravens,8,New York Jets,Away,Sunday
+Baltimore Ravens,9,Denver Broncos,Home,Monday
+Baltimore Ravens,10,Atlanta Falcons,Away,Sunday
+Baltimore Ravens,11,Carolina Panthers,Away,Sunday
+Baltimore Ravens,12,Cincinnati Bengals,Away,Sunday
+Baltimore Ravens,13,Tampa Bay Buccaneers,Home,Sunday
+Baltimore Ravens,14,Cleveland Browns,Home,Sunday
+Baltimore Ravens,15,Buffalo Bills,Home,Sunday
+Baltimore Ravens,16,Pittsburgh Steelers,Away,Sunday
+Baltimore Ravens,17,New Orleans Saints,Away,Sunday
+Baltimore Ravens,18,New York Giants,Away,Sunday
+Cincinnati Bengals,1,Kansas City Chiefs,Away,Sunday
+Cincinnati Bengals,2,Baltimore Ravens,Away,Sunday
+Cincinnati Bengals,3,Tennessee Titans,Home,Sunday
+Cincinnati Bengals,4,Tampa Bay Buccaneers,Away,Sunday
+Cincinnati Bengals,5,Atlanta Falcons,Home,Sunday
+Cincinnati Bengals,6,Pittsburgh Steelers,Home,Sunday
+Cincinnati Bengals,7,Carolina Panthers,Home,Sunday
+Cincinnati Bengals,8,Dallas Cowboys,Away,Sunday
+Cincinnati Bengals,9,BYE,-,-
+Cincinnati Bengals,10,New Orleans Saints,Home,Sunday
+Cincinnati Bengals,11,Cleveland Browns,Away,Sunday
+Cincinnati Bengals,12,Baltimore Ravens,Home,Sunday
+Cincinnati Bengals,13,New England Patriots,Home,Sunday
+Cincinnati Bengals,14,Miami Dolphins,Away,Sunday
+Cincinnati Bengals,15,Cleveland Browns,Home,Sunday
+Cincinnati Bengals,16,Buffalo Bills,Away,Sunday
+Cincinnati Bengals,17,New York Jets,Home,Sunday
+Cincinnati Bengals,18,Pittsburgh Steelers,Away,Sunday
+Cleveland Browns,1,New Orleans Saints,Away,Sunday
+Cleveland Browns,2,New York Jets,Home,Sunday
+Cleveland Browns,3,Pittsburgh Steelers,Away,Sunday
+Cleveland Browns,4,Washington Commanders,Away,Sunday
+Cleveland Browns,5,Tampa Bay Buccaneers,Home,Sunday
+Cleveland Browns,6,Baltimore Ravens,Home,Sunday
+Cleveland Browns,7,Miami Dolphins,Away,Sunday
+Cleveland Browns,8,Pittsburgh Steelers,Home,Sunday
+Cleveland Browns,9,Los Angeles Chargers,Away,Sunday
+Cleveland Browns,10,BYE,-,-
+Cleveland Browns,11,Cincinnati Bengals,Home,Sunday
+Cleveland Browns,12,Atlanta Falcons,Away,Sunday
+Cleveland Browns,13,Buffalo Bills,Home,Sunday
+Cleveland Browns,14,Baltimore Ravens,Away,Sunday
+Cleveland Browns,15,Cincinnati Bengals,Away,Sunday
+Cleveland Browns,16,New England Patriots,Home,Sunday
+Cleveland Browns,17,Carolina Panthers,Away,Sunday
+Cleveland Browns,18,Houston Texans,Home,Sunday
+Pittsburgh Steelers,1,Baltimore Ravens,Away,Sunday
+Pittsburgh Steelers,2,Philadelphia Eagles,Away,Sunday
+Pittsburgh Steelers,3,Cleveland Browns,Home,Sunday
+Pittsburgh Steelers,4,Buffalo Bills,Away,Sunday
+Pittsburgh Steelers,5,Carolina Panthers,Home,Sunday
+Pittsburgh Steelers,6,Cincinnati Bengals,Away,Sunday
+Pittsburgh Steelers,7,BYE,-,-
+Pittsburgh Steelers,8,Cleveland Browns,Away,Sunday
+Pittsburgh Steelers,9,New York Jets,Away,Sunday
+Pittsburgh Steelers,10,Miami Dolphins,Home,Thursday
+Pittsburgh Steelers,11,New Orleans Saints,Home,Sunday
+Pittsburgh Steelers,12,Tampa Bay Buccaneers,Away,Sunday
+Pittsburgh Steelers,13,Las Vegas Raiders,Home,Sunday
+Pittsburgh Steelers,14,New England Patriots,Home,Sunday
+Pittsburgh Steelers,15,Indianapolis Colts,Away,Sunday
+Pittsburgh Steelers,16,Baltimore Ravens,Home,Sunday
+Pittsburgh Steelers,17,Atlanta Falcons,Away,Sunday
+Pittsburgh Steelers,18,Cincinnati Bengals,Home,Sunday
+Houston Texans,1,Tennessee Titans,Away,Sunday
+Houston Texans,2,Miami Dolphins,Away,Sunday
+Houston Texans,3,Philadelphia Eagles,Away,Sunday
+Houston Texans,4,Chicago Bears,Home,Sunday
+Houston Texans,5,New York Giants,Home,Sunday
+Houston Texans,6,Denver Broncos,Away,Sunday
+Houston Texans,7,Los Angeles Chargers,Home,Sunday
+Houston Texans,8,BYE,-,-
+Houston Texans,9,Indianapolis Colts,Home,Sunday
+Houston Texans,10,Dallas Cowboys,Home,Sunday
+Houston Texans,11,Washington Commanders,Home,Sunday
+Houston Texans,12,Indianapolis Colts,Away,Sunday
+Houston Texans,13,Tennessee Titans,Home,Sunday
+Houston Texans,14,Jacksonville Jaguars,Away,Sunday
+Houston Texans,15,Kansas City Chiefs,Home,Sunday
+Houston Texans,16,Las Vegas Raiders,Away,Sunday
+Houston Texans,17,Jacksonville Jaguars,Home,Sunday
+Houston Texans,18,Cleveland Browns,Away,Sunday
+Indianapolis Colts,1,Philadelphia Eagles,Away,Sunday
+Indianapolis Colts,2,Jacksonville Jaguars,Home,Sunday
+Indianapolis Colts,3,New York Giants,Away,Sunday
+Indianapolis Colts,4,Denver Broncos,Home,Sunday
+Indianapolis Colts,5,Los Angeles Chargers,Away,Monday
+Indianapolis Colts,6,Kansas City Chiefs,Home,Sunday
+Indianapolis Colts,7,Dallas Cowboys,Home,Sunday
+Indianapolis Colts,8,Minnesota Vikings,Home,Sunday
+Indianapolis Colts,9,Houston Texans,Away,Sunday
+Indianapolis Colts,10,Tennessee Titans,Away,Sunday
+Indianapolis Colts,11,New England Patriots,Away,Sunday
+Indianapolis Colts,12,Houston Texans,Home,Sunday
+Indianapolis Colts,13,Jacksonville Jaguars,Away,Sunday
+Indianapolis Colts,14,BYE,-,-
+Indianapolis Colts,15,Pittsburgh Steelers,Home,Sunday
+Indianapolis Colts,16,Washington Commanders,Away,Sunday
+Indianapolis Colts,17,Tennessee Titans,Home,Sunday
+Indianapolis Colts,18,Las Vegas Raiders,Home,Sunday
+Jacksonville Jaguars,1,Dallas Cowboys,Home,Sunday
+Jacksonville Jaguars,2,Indianapolis Colts,Away,Sunday
+Jacksonville Jaguars,3,New York Jets,Home,Sunday
+Jacksonville Jaguars,4,Tennessee Titans,Home,Sunday
+Jacksonville Jaguars,5,BYE,-,-
+Jacksonville Jaguars,6,New York Giants,Away,Sunday
+Jacksonville Jaguars,7,Baltimore Ravens,Away,Sunday
+Jacksonville Jaguars,8,Washington Commanders,Away,Sunday
+Jacksonville Jaguars,9,Kansas City Chiefs,Home,Sunday
+Jacksonville Jaguars,10,Los Angeles Chargers,Home,Sunday
+Jacksonville Jaguars,11,Las Vegas Raiders,Away,Sunday
+Jacksonville Jaguars,12,Tennessee Titans,Away,Sunday
+Jacksonville Jaguars,13,Indianapolis Colts,Home,Sunday
+Jacksonville Jaguars,14,Houston Texans,Home,Sunday
+Jacksonville Jaguars,15,Philadelphia Eagles,Home,Sunday
+Jacksonville Jaguars,16,Denver Broncos,Away,Sunday
+Jacksonville Jaguars,17,Houston Texans,Away,Sunday
+Jacksonville Jaguars,18,Detroit Lions,Home,Sunday
+Tennessee Titans,1,Houston Texans,Home,Sunday
+Tennessee Titans,2,Los Angeles Chargers,Away,Monday
+Tennessee Titans,3,Cincinnati Bengals,Away,Sunday
+Tennessee Titans,4,Jacksonville Jaguars,Away,Sunday
+Tennessee Titans,5,Green Bay Packers,Home,Sunday
+Tennessee Titans,6,Philadelphia Eagles,Home,Sunday
+Tennessee Titans,7,Denver Broncos,Away,Sunday
+Tennessee Titans,8,BYE,-,-
+Tennessee Titans,9,Buffalo Bills,Away,Sunday
+Tennessee Titans,10,Indianapolis Colts,Home,Sunday
+Tennessee Titans,11,Kansas City Chiefs,Home,Sunday
+Tennessee Titans,12,Jacksonville Jaguars,Home,Sunday
+Tennessee Titans,13,Houston Texans,Away,Sunday
+Tennessee Titans,14,Dallas Cowboys,Home,Sunday
+Tennessee Titans,15,Las Vegas Raiders,Home,Monday
+Tennessee Titans,16,New York Giants,Home,Sunday
+Tennessee Titans,17,Indianapolis Colts,Away,Sunday
+Tennessee Titans,18,Washington Commanders,Away,Sunday
+Denver Broncos,1,Seattle Seahawks,Away,Sunday
+Denver Broncos,2,Carolina Panthers,Home,Sunday
+Denver Broncos,3,Kansas City Chiefs,Home,Monday
+Denver Broncos,4,Indianapolis Colts,Away,Sunday
+Denver Broncos,5,New York Jets,Away,Sunday
+Denver Broncos,6,Houston Texans,Home,Sunday
+Denver Broncos,7,Tennessee Titans,Home,Sunday
+Denver Broncos,8,BYE,-,-
+Denver Broncos,9,Baltimore Ravens,Away,Monday
+Denver Broncos,10,Las Vegas Raiders,Home,Sunday
+Denver Broncos,11,Arizona Cardinals,Home,Sunday
+Denver Broncos,12,Kansas City Chiefs,Away,Sunday
+Denver Broncos,13,San Francisco 49ers,Home,Sunday
+Denver Broncos,14,Las Vegas Raiders,Away,Monday
+Denver Broncos,15,Los Angeles Chargers,Home,Thursday
+Denver Broncos,16,Jacksonville Jaguars,Home,Sunday
+Denver Broncos,17,Los Angeles Rams,Away,Monday
+Denver Broncos,18,Los Angeles Chargers,Away,Sunday
+Kansas City Chiefs,1,Cincinnati Bengals,Home,Sunday
+Kansas City Chiefs,2,Arizona Cardinals,Away,Sunday
+Kansas City Chiefs,3,Denver Broncos,Away,Monday
+Kansas City Chiefs,4,Las Vegas Raiders,Away,Sunday
+Kansas City Chiefs,5,Seattle Seahawks,Home,Sunday
+Kansas City Chiefs,6,Indianapolis Colts,Away,Sunday
+Kansas City Chiefs,7,Las Vegas Raiders,Home,Monday
+Kansas City Chiefs,8,Los Angeles Chargers,Home,Thursday
+Kansas City Chiefs,9,Jacksonville Jaguars,Away,Sunday
+Kansas City Chiefs,10,Los Angeles Rams,Home,Sunday
+Kansas City Chiefs,11,Tennessee Titans,Away,Sunday
+Kansas City Chiefs,12,Denver Broncos,Home,Sunday
+Kansas City Chiefs,13,BYE,-,-
+Kansas City Chiefs,14,Buffalo Bills,Home,Sunday
+Kansas City Chiefs,15,Houston Texans,Away,Sunday
+Kansas City Chiefs,16,Los Angeles Chargers,Away,Sunday
+Kansas City Chiefs,17,Tampa Bay Buccaneers,Away,Sunday
+Kansas City Chiefs,18,San Francisco 49ers,Home,Thursday
+Las Vegas Raiders,1,Los Angeles Chargers,Away,Sunday
+Las Vegas Raiders,2,Seattle Seahawks,Home,Sunday
+Las Vegas Raiders,3,Arizona Cardinals,Away,Sunday
+Las Vegas Raiders,4,Kansas City Chiefs,Home,Sunday
+Las Vegas Raiders,5,BYE,-,-
+Las Vegas Raiders,6,New Orleans Saints,Home,Sunday
+Las Vegas Raiders,7,Kansas City Chiefs,Away,Monday
+Las Vegas Raiders,8,San Francisco 49ers,Away,Sunday
+Las Vegas Raiders,9,Los Angeles Rams,Home,Sunday
+Las Vegas Raiders,10,Denver Broncos,Away,Sunday
+Las Vegas Raiders,11,Jacksonville Jaguars,Home,Sunday
+Las Vegas Raiders,12,Los Angeles Chargers,Home,Sunday
+Las Vegas Raiders,13,Pittsburgh Steelers,Away,Sunday
+Las Vegas Raiders,14,Denver Broncos,Home,Monday
+Las Vegas Raiders,15,Tennessee Titans,Away,Monday
+Las Vegas Raiders,16,Houston Texans,Home,Sunday
+Las Vegas Raiders,17,New England Patriots,Away,Sunday
+Las Vegas Raiders,18,Indianapolis Colts,Away,Sunday
+Los Angeles Chargers,1,Las Vegas Raiders,Home,Sunday
+Los Angeles Chargers,2,Tennessee Titans,Home,Monday
+Los Angeles Chargers,3,San Francisco 49ers,Home,Sunday
+Los Angeles Chargers,4,Atlanta Falcons,Away,Sunday
+Los Angeles Chargers,5,Indianapolis Colts,Home,Monday
+Los Angeles Chargers,6,Miami Dolphins,Away,Sunday
+Los Angeles Chargers,7,Houston Texans,Away,Sunday
+Los Angeles Chargers,8,Kansas City Chiefs,Away,Thursday
+Los Angeles Chargers,9,Cleveland Browns,Home,Sunday
+Los Angeles Chargers,10,Jacksonville Jaguars,Away,Sunday
+Los Angeles Chargers,11,Los Angeles Rams,Away,Thursday
+Los Angeles Chargers,12,Las Vegas Raiders,Away,Sunday
+Los Angeles Chargers,13,BYE,-,-
+Los Angeles Chargers,14,Seattle Seahawks,Away,Sunday
+Los Angeles Chargers,15,Denver Broncos,Away,Thursday
+Los Angeles Chargers,16,Kansas City Chiefs,Home,Sunday
+Los Angeles Chargers,17,Arizona Cardinals,Home,Sunday
+Los Angeles Chargers,18,Denver Broncos,Home,Sunday
+Dallas Cowboys,1,Jacksonville Jaguars,Away,Sunday
+Dallas Cowboys,2,Detroit Lions,Away,Sunday
+Dallas Cowboys,3,Washington Commanders,Home,Sunday
+Dallas Cowboys,4,Los Angeles Rams,Away,Sunday
+Dallas Cowboys,5,BYE,-,-
+Dallas Cowboys,6,Washington Commanders,Away,Sunday
+Dallas Cowboys,7,Indianapolis Colts,Away,Sunday
+Dallas Cowboys,8,Cincinnati Bengals,Home,Sunday
+Dallas Cowboys,9,Tampa Bay Buccaneers,Home,Thursday
+Dallas Cowboys,10,Houston Texans,Away,Sunday
+Dallas Cowboys,11,New York Giants,Away,Sunday
+Dallas Cowboys,12,Minnesota Vikings,Home,Sunday
+Dallas Cowboys,13,Philadelphia Eagles,Home,Sunday
+Dallas Cowboys,14,Tennessee Titans,Away,Sunday
+Dallas Cowboys,15,New York Giants,Home,Sunday
+Dallas Cowboys,16,Philadelphia Eagles,Away,Sunday
+Dallas Cowboys,17,Green Bay Packers,Home,Sunday
+Dallas Cowboys,18,Chicago Bears,Home,Sunday
+New York Giants,1,Washington Commanders,Away,Sunday
+New York Giants,2,Green Bay Packers,Away,Sunday
+New York Giants,3,Indianapolis Colts,Home,Sunday
+New York Giants,4,Detroit Lions,Home,Sunday
+New York Giants,5,Houston Texans,Away,Sunday
+New York Giants,6,Jacksonville Jaguars,Home,Sunday
+New York Giants,7,Philadelphia Eagles,Away,Sunday
+New York Giants,8,Carolina Panthers,Away,Sunday
+New York Giants,9,BYE,-,-
+New York Giants,10,Chicago Bears,Home,Sunday
+New York Giants,11,Dallas Cowboys,Home,Sunday
+New York Giants,12,Philadelphia Eagles,Home,Sunday
+New York Giants,13,Minnesota Vikings,Away,Sunday
+New York Giants,14,Washington Commanders,Home,Sunday
+New York Giants,15,Dallas Cowboys,Away,Sunday
+New York Giants,16,Tennessee Titans,Away,Sunday
+New York Giants,17,Seattle Seahawks,Home,Thursday
+New York Giants,18,Baltimore Ravens,Home,Sunday
+Philadelphia Eagles,1,Indianapolis Colts,Home,Sunday
+Philadelphia Eagles,2,Pittsburgh Steelers,Home,Sunday
+Philadelphia Eagles,3,Houston Texans,Home,Sunday
+Philadelphia Eagles,4,Green Bay Packers,Away,Sunday
+Philadelphia Eagles,5,Washington Commanders,Home,Sunday
+Philadelphia Eagles,6,Tennessee Titans,Away,Sunday
+Philadelphia Eagles,7,New York Giants,Home,Sunday
+Philadelphia Eagles,8,Chicago Bears,Away,Sunday
+Philadelphia Eagles,9,New Orleans Saints,Home,Sunday
+Philadelphia Eagles,10,Washington Commanders,Away,Sunday
+Philadelphia Eagles,11,BYE,-,-
+Philadelphia Eagles,12,New York Giants,Away,Sunday
+Philadelphia Eagles,13,Dallas Cowboys,Away,Sunday
+Philadelphia Eagles,14,Minnesota Vikings,Home,Sunday
+Philadelphia Eagles,15,Jacksonville Jaguars,Away,Sunday
+Philadelphia Eagles,16,Dallas Cowboys,Home,Sunday
+Philadelphia Eagles,17,Detroit Lions,Away,Sunday
+Philadelphia Eagles,18,Arizona Cardinals,Home,Sunday
+Washington Commanders,1,New York Giants,Home,Sunday
+Washington Commanders,2,Atlanta Falcons,Away,Sunday
+Washington Commanders,3,Dallas Cowboys,Away,Sunday
+Washington Commanders,4,Cleveland Browns,Home,Sunday
+Washington Commanders,5,Philadelphia Eagles,Away,Sunday
+Washington Commanders,6,Dallas Cowboys,Home,Sunday
+Washington Commanders,7,Chicago Bears,Home,Sunday
+Washington Commanders,8,Jacksonville Jaguars,Home,Sunday
+Washington Commanders,9,Green Bay Packers,Away,Sunday
+Washington Commanders,10,Philadelphia Eagles,Home,Sunday
+Washington Commanders,11,Houston Texans,Away,Sunday
+Washington Commanders,12,Detroit Lions,Away,Sunday
+Washington Commanders,13,BYE,-,-
+Washington Commanders,14,New York Giants,Away,Sunday
+Washington Commanders,15,Minnesota Vikings,Away,Sunday
+Washington Commanders,16,Indianapolis Colts,Home,Sunday
+Washington Commanders,17,San Francisco 49ers,Home,Sunday
+Washington Commanders,18,Tennessee Titans,Home,Sunday
+Chicago Bears,1,Minnesota Vikings,Away,Sunday
+Chicago Bears,2,New England Patriots,Home,Sunday
+Chicago Bears,3,Buffalo Bills,Home,Sunday
+Chicago Bears,4,Houston Texans,Away,Sunday
+Chicago Bears,5,Detroit Lions,Away,Sunday
+Chicago Bears,6,BYE,-,-
+Chicago Bears,7,Washington Commanders,Away,Sunday
+Chicago Bears,8,Philadelphia Eagles,Home,Sunday
+Chicago Bears,9,Miami Dolphins,Home,Sunday
+Chicago Bears,10,New York Giants,Away,Sunday
+Chicago Bears,11,Green Bay Packers,Away,Sunday
+Chicago Bears,12,San Francisco 49ers,Away,Monday
+Chicago Bears,13,New York Jets,Home,Sunday
+Chicago Bears,14,Detroit Lions,Home,Sunday
+Chicago Bears,15,Atlanta Falcons,Away,Sunday
+Chicago Bears,16,Green Bay Packers,Home,Sunday
+Chicago Bears,17,Minnesota Vikings,Home,Sunday
+Chicago Bears,18,Dallas Cowboys,Away,Sunday
+Detroit Lions,1,New York Jets,Away,Thursday
+Detroit Lions,2,Dallas Cowboys,Home,Sunday
+Detroit Lions,3,Minnesota Vikings,Away,Sunday
+Detroit Lions,4,New York Giants,Away,Sunday
+Detroit Lions,5,Chicago Bears,Home,Sunday
+Detroit Lions,6,Carolina Panthers,Away,Sunday
+Detroit Lions,7,Buffalo Bills,Home,Sunday
+Detroit Lions,8,Green Bay Packers,Home,Sunday
+Detroit Lions,9,New England Patriots,Away,Sunday
+Detroit Lions,10,Seattle Seahawks,Away,Sunday
+Detroit Lions,11,BYE,-,-
+Detroit Lions,12,Washington Commanders,Home,Sunday
+Detroit Lions,13,Miami Dolphins,Home,Thursday
+Detroit Lions,14,Chicago Bears,Away,Sunday
+Detroit Lions,15,Green Bay Packers,Away,Sunday
+Detroit Lions,16,Minnesota Vikings,Home,Monday
+Detroit Lions,17,Philadelphia Eagles,Home,Sunday
+Detroit Lions,18,Jacksonville Jaguars,Away,Sunday
+Green Bay Packers,1,Buffalo Bills,Away,Sunday
+Green Bay Packers,2,New York Giants,Home,Sunday
+Green Bay Packers,3,Miami Dolphins,Away,Sunday
+Green Bay Packers,4,Philadelphia Eagles,Home,Sunday
+Green Bay Packers,5,Tennessee Titans,Away,Sunday
+Green Bay Packers,6,Minnesota Vikings,Away,Sunday
+Green Bay Packers,7,New York Jets,Home,Sunday
+Green Bay Packers,8,Detroit Lions,Away,Sunday
+Green Bay Packers,9,Washington Commanders,Home,Sunday
+Green Bay Packers,10,BYE,-,-
+Green Bay Packers,11,Chicago Bears,Home,Sunday
+Green Bay Packers,12,New England Patriots,Home,Sunday
+Green Bay Packers,13,Los Angeles Rams,Away,Monday
+Green Bay Packers,14,Tampa Bay Buccaneers,Away,Sunday
+Green Bay Packers,15,Detroit Lions,Home,Sunday
+Green Bay Packers,16,Chicago Bears,Away,Sunday
+Green Bay Packers,17,Dallas Cowboys,Away,Sunday
+Green Bay Packers,18,Minnesota Vikings,Home,Sunday
+Minnesota Vikings,1,Chicago Bears,Home,Sunday
+Minnesota Vikings,2,Buffalo Bills,Home,Sunday
+Minnesota Vikings,3,Detroit Lions,Home,Sunday
+Minnesota Vikings,4,New Orleans Saints,Away,Sunday
+Minnesota Vikings,5,Arizona Cardinals,Home,Sunday
+Minnesota Vikings,6,Green Bay Packers,Home,Sunday
+Minnesota Vikings,7,New England Patriots,Away,Sunday
+Minnesota Vikings,8,Indianapolis Colts,Away,Sunday
+Minnesota Vikings,9,BYE,-,-
+Minnesota Vikings,10,New York Jets,Home,Sunday
+Minnesota Vikings,11,Miami Dolphins,Away,Sunday
+Minnesota Vikings,12,Dallas Cowboys,Away,Sunday
+Minnesota Vikings,13,New York Giants,Home,Sunday
+Minnesota Vikings,14,Philadelphia Eagles,Away,Sunday
+Minnesota Vikings,15,Washington Commanders,Home,Sunday
+Minnesota Vikings,16,Detroit Lions,Away,Monday
+Minnesota Vikings,17,Chicago Bears,Away,Sunday
+Minnesota Vikings,18,Green Bay Packers,Away,Sunday
+Atlanta Falcons,1,San Francisco 49ers,Away,Sunday
+Atlanta Falcons,2,Washington Commanders,Home,Sunday
+Atlanta Falcons,3,New Orleans Saints,Home,Sunday
+Atlanta Falcons,4,Los Angeles Chargers,Home,Sunday
+Atlanta Falcons,5,Cincinnati Bengals,Away,Sunday
+Atlanta Falcons,6,Los Angeles Rams,Away,Monday
+Atlanta Falcons,7,Seattle Seahawks,Away,Sunday
+Atlanta Falcons,8,Tampa Bay Buccaneers,Home,Sunday
+Atlanta Falcons,9,BYE,-,-
+Atlanta Falcons,10,Baltimore Ravens,Home,Sunday
+Atlanta Falcons,11,Tampa Bay Buccaneers,Away,Sunday
+Atlanta Falcons,12,Cleveland Browns,Home,Sunday
+Atlanta Falcons,13,Arizona Cardinals,Away,Sunday
+Atlanta Falcons,14,Carolina Panthers,Away,Sunday
+Atlanta Falcons,15,Chicago Bears,Home,Sunday
+Atlanta Falcons,16,New Orleans Saints,Away,Sunday
+Atlanta Falcons,17,Pittsburgh Steelers,Home,Sunday
+Atlanta Falcons,18,Carolina Panthers,Home,Sunday
+Carolina Panthers,1,Los Angeles Rams,Home,Sunday
+Carolina Panthers,2,Denver Broncos,Away,Sunday
+Carolina Panthers,3,Tampa Bay Buccaneers,Away,Sunday
+Carolina Panthers,4,Arizona Cardinals,Home,Sunday
+Carolina Panthers,5,Pittsburgh Steelers,Away,Sunday
+Carolina Panthers,6,Detroit Lions,Home,Sunday
+Carolina Panthers,7,Cincinnati Bengals,Away,Sunday
+Carolina Panthers,8,New York Giants,Home,Sunday
+Carolina Panthers,9,Seattle Seahawks,Away,Sunday
+Carolina Panthers,10,Tampa Bay Buccaneers,Home,Sunday
+Carolina Panthers,11,Baltimore Ravens,Home,Sunday
+Carolina Panthers,12,New Orleans Saints,Away,Sunday
+Carolina Panthers,13,BYE,-,-
+Carolina Panthers,14,Atlanta Falcons,Home,Sunday
+Carolina Panthers,15,New Orleans Saints,Home,Sunday
+Carolina Panthers,16,San Francisco 49ers,Away,Sunday
+Carolina Panthers,17,Cleveland Browns,Home,Sunday
+Carolina Panthers,18,Atlanta Falcons,Away,Sunday
+New Orleans Saints,1,Cleveland Browns,Home,Sunday
+New Orleans Saints,2,Tampa Bay Buccaneers,Home,Thursday
+New Orleans Saints,3,Atlanta Falcons,Away,Sunday
+New Orleans Saints,4,Minnesota Vikings,Home,Sunday
+New Orleans Saints,5,San Francisco 49ers,Away,Sunday
+New Orleans Saints,6,Las Vegas Raiders,Away,Sunday
+New Orleans Saints,7,Arizona Cardinals,Away,Sunday
+New Orleans Saints,8,BYE,-,-
+New Orleans Saints,9,Philadelphia Eagles,Away,Sunday
+New Orleans Saints,10,Cincinnati Bengals,Away,Sunday
+New Orleans Saints,11,Pittsburgh Steelers,Away,Sunday
+New Orleans Saints,12,Carolina Panthers,Home,Sunday
+New Orleans Saints,13,Seattle Seahawks,Home,Sunday
+New Orleans Saints,14,Los Angeles Rams,Home,Sunday
+New Orleans Saints,15,Carolina Panthers,Away,Sunday
+New Orleans Saints,16,Atlanta Falcons,Home,Sunday
+New Orleans Saints,17,Baltimore Ravens,Home,Sunday
+New Orleans Saints,18,Tampa Bay Buccaneers,Away,Sunday
+Tampa Bay Buccaneers,1,Arizona Cardinals,Away,Sunday
+Tampa Bay Buccaneers,2,New Orleans Saints,Away,Thursday
+Tampa Bay Buccaneers,3,Carolina Panthers,Home,Sunday
+Tampa Bay Buccaneers,4,Cincinnati Bengals,Home,Sunday
+Tampa Bay Buccaneers,5,Cleveland Browns,Away,Sunday
+Tampa Bay Buccaneers,6,San Francisco 49ers,Home,Sunday
+Tampa Bay Buccaneers,7,BYE,-,-
+Tampa Bay Buccaneers,8,Atlanta Falcons,Away,Sunday
+Tampa Bay Buccaneers,9,Dallas Cowboys,Away,Thursday
+Tampa Bay Buccaneers,10,Carolina Panthers,Away,Sunday
+Tampa Bay Buccaneers,11,Atlanta Falcons,Home,Sunday
+Tampa Bay Buccaneers,12,Pittsburgh Steelers,Home,Sunday
+Tampa Bay Buccaneers,13,Baltimore Ravens,Away,Sunday
+Tampa Bay Buccaneers,14,Green Bay Packers,Home,Sunday
+Tampa Bay Buccaneers,15,Los Angeles Rams,Away,Sunday
+Tampa Bay Buccaneers,16,Seattle Seahawks,Home,Sunday
+Tampa Bay Buccaneers,17,Kansas City Chiefs,Home,Sunday
+Tampa Bay Buccaneers,18,New Orleans Saints,Home,Sunday
+Arizona Cardinals,1,Tampa Bay Buccaneers,Home,Sunday
+Arizona Cardinals,2,Kansas City Chiefs,Home,Sunday
+Arizona Cardinals,3,Las Vegas Raiders,Home,Sunday
+Arizona Cardinals,4,Carolina Panthers,Away,Sunday
+Arizona Cardinals,5,Minnesota Vikings,Away,Sunday
+Arizona Cardinals,6,Seattle Seahawks,Home,Thursday
+Arizona Cardinals,7,New Orleans Saints,Home,Sunday
+Arizona Cardinals,8,New England Patriots,Away,Monday
+Arizona Cardinals,9,BYE,-,-
+Arizona Cardinals,10,San Francisco 49ers,Away,Sunday
+Arizona Cardinals,11,Denver Broncos,Away,Sunday
+Arizona Cardinals,12,Los Angeles Rams,Away,Sunday
+Arizona Cardinals,13,Atlanta Falcons,Home,Sunday
+Arizona Cardinals,14,San Francisco 49ers,Home,Thursday
+Arizona Cardinals,15,Seattle Seahawks,Away,Sunday
+Arizona Cardinals,16,Los Angeles Rams,Home,Sunday
+Arizona Cardinals,17,Los Angeles Chargers,Away,Sunday
+Arizona Cardinals,18,Philadelphia Eagles,Away,Sunday
+Los Angeles Rams,1,Carolina Panthers,Away,Sunday
+Los Angeles Rams,2,San Francisco 49ers,Away,Sunday
+Los Angeles Rams,3,Seattle Seahawks,Home,Thursday
+Los Angeles Rams,4,Dallas Cowboys,Home,Sunday
+Los Angeles Rams,5,BYE,-,-
+Los Angeles Rams,6,Atlanta Falcons,Home,Monday
+Los Angeles Rams,7,San Francisco 49ers,Home,Thursday
+Los Angeles Rams,8,Buffalo Bills,Away,Sunday
+Los Angeles Rams,9,Las Vegas Raiders,Away,Sunday
+Los Angeles Rams,10,Kansas City Chiefs,Away,Sunday
+Los Angeles Rams,11,Los Angeles Chargers,Home,Thursday
+Los Angeles Rams,12,Arizona Cardinals,Home,Sunday
+Los Angeles Rams,13,Green Bay Packers,Home,Monday
+Los Angeles Rams,14,New Orleans Saints,Away,Sunday
+Los Angeles Rams,15,Tampa Bay Buccaneers,Home,Sunday
+Los Angeles Rams,16,Arizona Cardinals,Away,Sunday
+Los Angeles Rams,17,Denver Broncos,Home,Monday
+Los Angeles Rams,18,Seattle Seahawks,Away,Monday
+San Francisco 49ers,1,Atlanta Falcons,Home,Sunday
+San Francisco 49ers,2,Los Angeles Rams,Home,Sunday
+San Francisco 49ers,3,Los Angeles Chargers,Away,Sunday
+San Francisco 49ers,4,Seattle Seahawks,Away,Thursday
+San Francisco 49ers,5,New Orleans Saints,Home,Sunday
+San Francisco 49ers,6,Tampa Bay Buccaneers,Away,Sunday
+San Francisco 49ers,7,Los Angeles Rams,Away,Thursday
+San Francisco 49ers,8,Las Vegas Raiders,Home,Sunday
+San Francisco 49ers,9,BYE,-,-
+San Francisco 49ers,10,Arizona Cardinals,Home,Sunday
+San Francisco 49ers,11,Seattle Seahawks,Home,Sunday
+San Francisco 49ers,12,Chicago Bears,Home,Monday
+San Francisco 49ers,13,Denver Broncos,Away,Sunday
+San Francisco 49ers,14,Arizona Cardinals,Away,Thursday
+San Francisco 49ers,15,Miami Dolphins,Home,Sunday
+San Francisco 49ers,16,Carolina Panthers,Home,Sunday
+San Francisco 49ers,17,Washington Commanders,Away,Sunday
+San Francisco 49ers,18,Kansas City Chiefs,Away,Thursday
+Seattle Seahawks,1,Denver Broncos,Home,Sunday
+Seattle Seahawks,2,Las Vegas Raiders,Away,Sunday
+Seattle Seahawks,3,Los Angeles Rams,Away,Thursday
+Seattle Seahawks,4,San Francisco 49ers,Home,Thursday
+Seattle Seahawks,5,Kansas City Chiefs,Away,Sunday
+Seattle Seahawks,6,Arizona Cardinals,Away,Thursday
+Seattle Seahawks,7,Atlanta Falcons,Home,Sunday
+Seattle Seahawks,8,BYE,-,-
+Seattle Seahawks,9,Carolina Panthers,Home,Sunday
+Seattle Seahawks,10,Detroit Lions,Home,Sunday
+Seattle Seahawks,11,San Francisco 49ers,Away,Sunday
+Seattle Seahawks,12,New York Jets,Away,Thursday
+Seattle Seahawks,13,New Orleans Saints,Away,Sunday
+Seattle Seahawks,14,Los Angeles Chargers,Home,Sunday
+Seattle Seahawks,15,Arizona Cardinals,Home,Sunday
+Seattle Seahawks,16,Tampa Bay Buccaneers,Away,Sunday
+Seattle Seahawks,17,New York Giants,Away,Thursday
+Seattle Seahawks,18,Los Angeles Rams,Home,Monday

@@ -1,0 +1,1025 @@
+team_i,team_j,distance_km
+Buffalo Bills,Buffalo Bills,0.0
+Buffalo Bills,Miami Dolphins,1911.707130393
+Buffalo Bills,New England Patriots,615.1200381040094
+Buffalo Bills,New York Jets,452.7342050197098
+Buffalo Bills,Baltimore Ravens,452.88933974837965
+Buffalo Bills,Cincinnati Bengals,659.3749222994868
+Buffalo Bills,Cleveland Browns,308.5182861199857
+Buffalo Bills,Pittsburgh Steelers,299.57196980871583
+Buffalo Bills,Houston Texans,2061.4305035030975
+Buffalo Bills,Indianapolis Colts,725.8525490307222
+Buffalo Bills,Jacksonville Jaguars,1408.681832295156
+Buffalo Bills,Tennessee Titans,1018.9835291944527
+Buffalo Bills,Denver Broncos,2182.797450069123
+Buffalo Bills,Kansas City Chiefs,1396.6529150734461
+Buffalo Bills,Las Vegas Raiders,3190.032112575793
+Buffalo Bills,Los Angeles Chargers,3562.318445918624
+Buffalo Bills,Dallas Cowboys,1949.767574578062
+Buffalo Bills,New York Giants,452.7342050197098
+Buffalo Bills,Philadelphia Eagles,448.41277951688767
+Buffalo Bills,Washington Commanders,456.2127808015602
+Buffalo Bills,Chicago Bears,760.1214467738889
+Buffalo Bills,Detroit Lions,387.1510820425558
+Buffalo Bills,Green Bay Packers,775.2000056362989
+Buffalo Bills,Minnesota Vikings,1178.9555025133054
+Buffalo Bills,Atlanta Falcons,1147.0809731013328
+Buffalo Bills,Carolina Panthers,880.3930570195048
+Buffalo Bills,New Orleans Saints,1767.1158611455483
+Buffalo Bills,Tampa Bay Buccaneers,1698.3895229001919
+Buffalo Bills,Arizona Cardinals,3070.4847686155567
+Buffalo Bills,Los Angeles Rams,3562.318445918624
+Buffalo Bills,San Francisco 49ers,3682.198291008206
+Buffalo Bills,Seattle Seahawks,3405.736101168491
+Miami Dolphins,Buffalo Bills,1911.707130393
+Miami Dolphins,Miami Dolphins,0.0
+Miami Dolphins,New England Patriots,1948.500969606441
+Miami Dolphins,New York Jets,1749.679220265084
+Miami Dolphins,Baltimore Ravens,1525.5451843665194
+Miami Dolphins,Cincinnati Bengals,1529.5504879652556
+Miami Dolphins,Cleveland Browns,1741.8649047364433
+Miami Dolphins,Pittsburgh Steelers,1634.216500182566
+Miami Dolphins,Houston Texans,1548.9040318602758
+Miami Dolphins,Indianapolis Colts,1645.7028724844145
+Miami Dolphins,Jacksonville Jaguars,540.3491893786254
+Miami Dolphins,Tennessee Titans,1299.1410078300667
+Miami Dolphins,Denver Broncos,2749.7434500568415
+Miami Dolphins,Kansas City Chiefs,2016.0490190323317
+Miami Dolphins,Las Vegas Raiders,3495.320339104571
+Miami Dolphins,Los Angeles Chargers,3764.135377282994
+Miami Dolphins,Dallas Cowboys,1803.1348002663178
+Miami Dolphins,New York Giants,1749.679220265084
+Miami Dolphins,Philadelphia Eagles,1634.4326074977594
+Miami Dolphins,Washington Commanders,1486.7892594694292
+Miami Dolphins,Chicago Bears,1930.0931934874832
+Miami Dolphins,Detroit Lions,1846.1981628496735
+Miami Dolphins,Green Bay Packers,2194.291654164955
+Miami Dolphins,Minnesota Vikings,2417.6536887251245
+Miami Dolphins,Atlanta Falcons,959.1780452534865
+Miami Dolphins,Carolina Panthers,1048.878316356863
+Miami Dolphins,New Orleans Saints,1085.437724105561
+Miami Dolphins,Tampa Bay Buccaneers,329.6778026191152
+Miami Dolphins,Arizona Cardinals,3168.0485168298737
+Miami Dolphins,Los Angeles Rams,3764.135377282994
+Miami Dolphins,San Francisco 49ers,4111.8846430758995
+Miami Dolphins,Seattle Seahawks,4379.480461123862
+New England Patriots,Buffalo Bills,615.1200381040094
+New England Patriots,Miami Dolphins,1948.500969606441
+New England Patriots,New England Patriots,0.0
+New England Patriots,New York Jets,257.0399918318516
+New England Patriots,Baltimore Ravens,526.1742352867827
+New England Patriots,Cincinnati Bengals,1158.483525925217
+New England Patriots,Cleveland Browns,867.2973891917281
+New England Patriots,Pittsburgh Steelers,750.224975474443
+New England Patriots,Houston Texans,2505.980572722893
+New England Patriots,Indianapolis Colts,1270.9153835536824
+New England Patriots,Jacksonville Jaguars,1549.6272659554222
+New England Patriots,Tennessee Titans,1456.5120289461627
+New England Patriots,Denver Broncos,2789.931345954878
+New England Patriots,Kansas City Chiefs,1981.196324078446
+New England Patriots,Las Vegas Raiders,3794.3606506123356
+New England Patriots,Los Angeles Chargers,4163.600262468028
+New England Patriots,Dallas Cowboys,2456.9965742033733
+New England Patriots,New York Giants,257.0399918318516
+New England Patriots,Philadelphia Eagles,380.5604689992083
+New England Patriots,Washington Commanders,596.1476580248794
+New England Patriots,Chicago Bears,1363.2483886901564
+New England Patriots,Detroit Lions,986.5724376879517
+New England Patriots,Green Bay Packers,1388.5969373237047
+New England Patriots,Minnesota Vikings,1792.3590575955877
+New England Patriots,Atlanta Falcons,1452.292764793975
+New England Patriots,Carolina Panthers,1099.1259037229022
+New England Patriots,New Orleans Saints,2132.4338950908173
+New England Patriots,Tampa Bay Buccaneers,1830.1023753751483
+New England Patriots,Arizona Cardinals,3656.6453112424733
+New England Patriots,Los Angeles Rams,4163.600262468028
+New England Patriots,San Francisco 49ers,4295.248810028691
+New England Patriots,Seattle Seahawks,4006.0554051574622
+New York Jets,Buffalo Bills,452.7342050197098
+New York Jets,Miami Dolphins,1749.679220265084
+New York Jets,New England Patriots,257.0399918318516
+New York Jets,New York Jets,0.0
+New York Jets,Baltimore Ravens,271.193062236276
+New York Jets,Cincinnati Bengals,912.8400864931539
+New York Jets,Cleveland Browns,648.2197807157322
+New York Jets,Pittsburgh Steelers,512.0504446112338
+New York Jets,Houston Texans,2249.105830370459
+New York Jets,Indianapolis Colts,1033.9637766158753
+New York Jets,Jacksonville Jaguars,1320.5032497082861
+New York Jets,Tennessee Titans,1200.8135070554433
+New York Jets,Denver Broncos,2576.8021531082395
+New York Jets,Kansas City Chiefs,1752.783158009056
+New York Jets,Las Vegas Raiders,3575.8427034408314
+New York Jets,Los Angeles Chargers,3941.4537532278373
+New York Jets,Dallas Cowboys,2204.6986013926658
+New York Jets,New York Giants,0.0
+New York Jets,Philadelphia Eagles,127.46332359500782
+New York Jets,Washington Commanders,339.9386216571487
+New York Jets,Chicago Bears,1154.1888865182625
+New York Jets,Detroit Lions,782.7253778240097
+New York Jets,Green Bay Packers,1216.7031718871638
+New York Jets,Minnesota Vikings,1618.0664679347194
+New York Jets,Atlanta Falcons,1198.5723937320518
+New York Jets,Carolina Panthers,849.9303669795681
+New York Jets,New Orleans Saints,1876.9951202362063
+New York Jets,Tampa Bay Buccaneers,1606.274612105167
+New York Jets,Arizona Cardinals,3424.2653544503896
+New York Jets,Los Angeles Rams,3941.4537532278373
+New York Jets,San Francisco 49ers,4090.7528832262838
+New York Jets,Seattle Seahawks,3854.298983296067
+Baltimore Ravens,Buffalo Bills,452.88933974837965
+Baltimore Ravens,Miami Dolphins,1525.5451843665194
+Baltimore Ravens,New England Patriots,526.1742352867827
+Baltimore Ravens,New York Jets,271.193062236276
+Baltimore Ravens,Baltimore Ravens,0.0
+Baltimore Ravens,Cincinnati Bengals,689.6522144069677
+Baltimore Ravens,Cleveland Browns,504.47812877180627
+Baltimore Ravens,Pittsburgh Steelers,337.865499618594
+Baltimore Ravens,Houston Texans,1984.9265848384646
+Baltimore Ravens,Indianapolis Colts,828.2116008899523
+Baltimore Ravens,Jacksonville Jaguars,1068.104930354185
+Baltimore Ravens,Tennessee Titans,944.009603342703
+Baltimore Ravens,Denver Broncos,2394.4142118472582
+Baltimore Ravens,Kansas City Chiefs,1551.9985877665251
+Baltimore Ravens,Las Vegas Raiders,3381.495575567607
+Baltimore Ravens,Los Angeles Chargers,3740.869745535533
+Baltimore Ravens,Dallas Cowboys,1955.2691871273614
+Baltimore Ravens,New York Giants,271.193062236276
+Baltimore Ravens,Philadelphia Eagles,145.68088707898124
+Baltimore Ravens,Washington Commanders,71.9630277871944
+Baltimore Ravens,Chicago Bears,998.1472199798791
+Baltimore Ravens,Detroit Lions,656.2130776037617
+Baltimore Ravens,Green Bay Packers,1117.120123694754
+Baltimore Ravens,Minnesota Vikings,1503.2726463279057
+Baltimore Ravens,Atlanta Falcons,927.3793553418988
+Baltimore Ravens,Carolina Panthers,580.9427471360627
+Baltimore Ravens,New Orleans Saints,1606.3295266183218
+Baltimore Ravens,Tampa Bay Buccaneers,1357.431782580757
+Baltimore Ravens,Arizona Cardinals,3209.1353944237576
+Baltimore Ravens,Los Angeles Rams,3740.869745535533
+Baltimore Ravens,San Francisco 49ers,3914.961582572605
+Baltimore Ravens,Seattle Seahawks,3747.9237251885243
+Cincinnati Bengals,Buffalo Bills,659.3749222994868
+Cincinnati Bengals,Miami Dolphins,1529.5504879652556
+Cincinnati Bengals,New England Patriots,1158.483525925217
+Cincinnati Bengals,New York Jets,912.8400864931539
+Cincinnati Bengals,Baltimore Ravens,689.6522144069677
+Cincinnati Bengals,Cincinnati Bengals,0.0
+Cincinnati Bengals,Cleveland Browns,354.55477904826955
+Cincinnati Bengals,Pittsburgh Steelers,410.94915574080073
+Cincinnati Bengals,Houston Texans,1402.0573195141885
+Cincinnati Bengals,Indianapolis Colts,158.4684914394475
+Cincinnati Bengals,Jacksonville Jaguars,989.2013388729847
+Cincinnati Bengals,Tennessee Titans,371.1516447748204
+Cincinnati Bengals,Denver Broncos,1717.622462363018
+Cincinnati Bengals,Kansas City Chiefs,866.7986745807951
+Cincinnati Bengals,Las Vegas Raiders,2695.2013613143904
+Cincinnati Bengals,Los Angeles Chargers,3052.3232606976117
+Cincinnati Bengals,Dallas Cowboys,1305.6900089409246
+Cincinnati Bengals,New York Giants,912.8400864931539
+Cincinnati Bengals,Philadelphia Eagles,814.3271878549023
+Cincinnati Bengals,Washington Commanders,623.1161684565553
+Cincinnati Bengals,Chicago Bears,425.64463373782957
+Cincinnati Bengals,Detroit Lions,367.952681925707
+Cincinnati Bengals,Green Bay Packers,668.8652031808639
+Cincinnati Bengals,Minnesota Vikings,958.380339651657
+Cincinnati Bengals,Atlanta Falcons,602.2114317397909
+Cincinnati Bengals,Carolina Panthers,539.2948578057437
+Cincinnati Bengals,New Orleans Saints,1129.460689106299
+Cincinnati Bengals,Tampa Bay Buccaneers,1246.6377505727617
+Cincinnati Bengals,Arizona Cardinals,2519.8721601925513
+Cincinnati Bengals,Los Angeles Rams,3052.3232606976117
+Cincinnati Bengals,San Francisco 49ers,3238.575719127546
+Cincinnati Bengals,Seattle Seahawks,3153.868657711018
+Cleveland Browns,Buffalo Bills,308.5182861199857
+Cleveland Browns,Miami Dolphins,1741.8649047364433
+Cleveland Browns,New England Patriots,867.2973891917281
+Cleveland Browns,New York Jets,648.2197807157322
+Cleveland Browns,Baltimore Ravens,504.47812877180627
+Cleveland Browns,Cincinnati Bengals,354.55477904826955
+Cleveland Browns,Cleveland Browns,0.0
+Cleveland Browns,Pittsburgh Steelers,169.4590956791228
+Cleveland Browns,Houston Texans,1755.1517083054325
+Cleveland Browns,Indianapolis Colts,419.7585506446587
+Cleveland Browns,Jacksonville Jaguars,1213.5199587803377
+Cleveland Browns,Tennessee Titans,721.583244698577
+Cleveland Browns,Denver Broncos,1928.902696283343
+Cleveland Browns,Kansas City Chiefs,1114.2307022064147
+Cleveland Browns,Las Vegas Raiders,2929.815977656843
+Cleveland Browns,Los Angeles Chargers,3297.4286066593663
+Cleveland Browns,Dallas Cowboys,1641.9845331975043
+Cleveland Browns,New York Giants,648.2197807157322
+Cleveland Browns,Philadelphia Eagles,583.4318962594491
+Cleveland Browns,Washington Commanders,462.5471596700891
+Cleveland Browns,Chicago Bears,506.92005550523356
+Cleveland Browns,Detroit Lions,152.95375284851892
+Cleveland Browns,Green Bay Packers,615.3849495693185
+Cleveland Browns,Minnesota Vikings,998.8721480958078
+Cleveland Browns,Atlanta Falcons,893.1894726791417
+Cleveland Browns,Carolina Panthers,693.4323870221913
+Cleveland Browns,New Orleans Saints,1477.2463369456184
+Cleveland Browns,Tampa Bay Buccaneers,1494.340474547552
+Cleveland Browns,Arizona Cardinals,2790.2158265444
+Cleveland Browns,Los Angeles Rams,3297.4286066593663
+Cleveland Browns,San Francisco 49ers,3442.6926003010194
+Cleveland Browns,Seattle Seahawks,3243.703846583695
+Pittsburgh Steelers,Buffalo Bills,299.57196980871583
+Pittsburgh Steelers,Miami Dolphins,1634.216500182566
+Pittsburgh Steelers,New England Patriots,750.224975474443
+Pittsburgh Steelers,New York Jets,512.0504446112338
+Pittsburgh Steelers,Baltimore Ravens,337.865499618594
+Pittsburgh Steelers,Cincinnati Bengals,410.94915574080073
+Pittsburgh Steelers,Cleveland Browns,169.4590956791228
+Pittsburgh Steelers,Pittsburgh Steelers,0.0
+Pittsburgh Steelers,Houston Texans,1796.664887588297
+Pittsburgh Steelers,Indianapolis Colts,522.2963499784186
+Pittsburgh Steelers,Jacksonville Jaguars,1119.4681534647495
+Pittsburgh Steelers,Tennessee Titans,743.03936600385
+Pittsburgh Steelers,Denver Broncos,2071.664936871682
+Pittsburgh Steelers,Kansas City Chiefs,1241.2344845474017
+Pittsburgh Steelers,Las Vegas Raiders,3066.7523121011227
+Pittsburgh Steelers,Los Angeles Chargers,3430.8344994229224
+Pittsburgh Steelers,Dallas Cowboys,1716.0781338709712
+Pittsburgh Steelers,New York Giants,512.0504446112338
+Pittsburgh Steelers,Philadelphia Eagles,430.34621130025715
+Pittsburgh Steelers,Washington Commanders,293.1974386725944
+Pittsburgh Steelers,Chicago Bears,662.2405618583001
+Pittsburgh Steelers,Detroit Lions,322.41152014456776
+Pittsburgh Steelers,Green Bay Packers,784.8382321133615
+Pittsburgh Steelers,Minnesota Vikings,1166.2046174931074
+Pittsburgh Steelers,Atlanta Falcons,847.842056068231
+Pittsburgh Steelers,Carolina Panthers,590.5061439182247
+Pittsburgh Steelers,New Orleans Saints,1478.2604314958032
+Pittsburgh Steelers,Tampa Bay Buccaneers,1407.1327822063622
+Pittsburgh Steelers,Arizona Cardinals,2912.2815590349046
+Pittsburgh Steelers,Los Angeles Rams,3430.8344994229224
+Pittsburgh Steelers,San Francisco 49ers,3589.7119970931667
+Pittsburgh Steelers,Seattle Seahawks,3410.42985804205
+Houston Texans,Buffalo Bills,2061.4305035030975
+Houston Texans,Miami Dolphins,1548.9040318602758
+Houston Texans,New England Patriots,2505.980572722893
+Houston Texans,New York Jets,2249.105830370459
+Houston Texans,Baltimore Ravens,1984.9265848384646
+Houston Texans,Cincinnati Bengals,1402.0573195141885
+Houston Texans,Cleveland Browns,1755.1517083054325
+Houston Texans,Pittsburgh Steelers,1796.664887588297
+Houston Texans,Houston Texans,0.0
+Houston Texans,Indianapolis Colts,1358.957140757173
+Houston Texans,Jacksonville Jaguars,1310.7494279203877
+Houston Texans,Tennessee Titans,1055.2954325567705
+Houston Texans,Denver Broncos,1388.5846539158758
+Houston Texans,Kansas City Chiefs,1037.6254793827509
+Houston Texans,Las Vegas Raiders,1964.4924366256596
+Houston Texans,Los Angeles Chargers,2217.07961744466
+Houston Texans,Dallas Cowboys,362.33607309435706
+Houston Texans,New York Giants,2249.105830370459
+Houston Texans,Philadelphia Eagles,2129.4504839899278
+Houston Texans,Washington Commanders,1913.2984803939305
+Houston Texans,Chicago Bears,1490.1309065052808
+Houston Texans,Detroit Lions,1729.9023818442204
+Houston Texans,Green Bay Packers,1731.0629585280763
+Houston Texans,Minnesota Vikings,1666.4275050855754
+Houston Texans,Atlanta Falcons,1106.7102593204597
+Houston Texans,Carolina Panthers,1465.8418851656343
+Houston Texans,New Orleans Saints,488.11677373549367
+Houston Texans,Tampa Bay Buccaneers,1263.959230569757
+Houston Texans,Arizona Cardinals,1621.2424925970663
+Houston Texans,Los Angeles Rams,2217.07961744466
+Houston Texans,San Francisco 49ers,2584.0077903805277
+Houston Texans,Seattle Seahawks,3013.82754422549
+Indianapolis Colts,Buffalo Bills,725.8525490307222
+Indianapolis Colts,Miami Dolphins,1645.7028724844145
+Indianapolis Colts,New England Patriots,1270.9153835536824
+Indianapolis Colts,New York Jets,1033.9637766158753
+Indianapolis Colts,Baltimore Ravens,828.2116008899523
+Indianapolis Colts,Cincinnati Bengals,158.4684914394475
+Indianapolis Colts,Cleveland Browns,419.7585506446587
+Indianapolis Colts,Pittsburgh Steelers,522.2963499784186
+Indianapolis Colts,Houston Texans,1358.957140757173
+Indianapolis Colts,Indianapolis Colts,0.0
+Indianapolis Colts,Jacksonville Jaguars,1107.2171140498087
+Indianapolis Colts,Tennessee Titans,401.3724766143236
+Indianapolis Colts,Denver Broncos,1568.634454237752
+Indianapolis Colts,Kansas City Chiefs,724.035633927496
+Indianapolis Colts,Las Vegas Raiders,2553.375539683695
+Indianapolis Colts,Los Angeles Chargers,2913.970301510188
+Indianapolis Colts,Dallas Cowboys,1224.4928049019156
+Indianapolis Colts,New York Giants,1033.9637766158753
+Indianapolis Colts,Philadelphia Eagles,944.458123224699
+Indianapolis Colts,Washington Commanders,764.8335090859294
+Indianapolis Colts,Chicago Bears,285.8141076133467
+Indianapolis Colts,Detroit Lions,370.9733725377508
+Indianapolis Colts,Green Bay Packers,551.0202623667794
+Indianapolis Colts,Minnesota Vikings,808.0635202469673
+Indianapolis Colts,Atlanta Falcons,696.0547255776102
+Indianapolis Colts,Carolina Panthers,688.1300568714885
+Indianapolis Colts,New Orleans Saints,1139.7522049925335
+Indianapolis Colts,Tampa Bay Buccaneers,1350.1384914361815
+Indianapolis Colts,Arizona Cardinals,2390.4149614386947
+Indianapolis Colts,Los Angeles Rams,2913.970301510188
+Indianapolis Colts,San Francisco 49ers,3089.8916696396855
+Indianapolis Colts,Seattle Seahawks,2995.437816075687
+Jacksonville Jaguars,Buffalo Bills,1408.681832295156
+Jacksonville Jaguars,Miami Dolphins,540.3491893786254
+Jacksonville Jaguars,New England Patriots,1549.6272659554222
+Jacksonville Jaguars,New York Jets,1320.5032497082861
+Jacksonville Jaguars,Baltimore Ravens,1068.104930354185
+Jacksonville Jaguars,Cincinnati Bengals,989.2013388729847
+Jacksonville Jaguars,Cleveland Browns,1213.5199587803377
+Jacksonville Jaguars,Pittsburgh Steelers,1119.4681534647495
+Jacksonville Jaguars,Houston Texans,1310.7494279203877
+Jacksonville Jaguars,Indianapolis Colts,1107.2171140498087
+Jacksonville Jaguars,Jacksonville Jaguars,0.0
+Jacksonville Jaguars,Tennessee Titans,778.3954511923134
+Jacksonville Jaguars,Denver Broncos,2325.4797323292414
+Jacksonville Jaguars,Kansas City Chiefs,1536.917835196891
+Jacksonville Jaguars,Las Vegas Raiders,3156.174374499134
+Jacksonville Jaguars,Los Angeles Chargers,3458.046389054186
+Jacksonville Jaguars,Dallas Cowboys,1475.561597138668
+Jacksonville Jaguars,New York Giants,1320.5032497082861
+Jacksonville Jaguars,Philadelphia Eagles,1196.0580075125188
+Jacksonville Jaguars,Washington Commanders,1016.889129804056
+Jacksonville Jaguars,Chicago Bears,1392.3994318968196
+Jacksonville Jaguars,Detroit Lions,1310.6893348297288
+Jacksonville Jaguars,Green Bay Packers,1654.531270878223
+Jacksonville Jaguars,Minnesota Vikings,1889.6736547509674
+Jacksonville Jaguars,Atlanta Falcons,434.34781299622847
+Jacksonville Jaguars,Carolina Panthers,529.1244861551825
+Jacksonville Jaguars,New Orleans Saints,825.0276753470496
+Jacksonville Jaguars,Tampa Bay Buccaneers,291.29393541184464
+Jacksonville Jaguars,Arizona Cardinals,2868.1557293968585
+Jacksonville Jaguars,Los Angeles Rams,3458.046389054186
+Jacksonville Jaguars,San Francisco 49ers,3760.822180331085
+Jacksonville Jaguars,Seattle Seahawks,3924.9127696227565
+Tennessee Titans,Buffalo Bills,1018.9835291944527
+Tennessee Titans,Miami Dolphins,1299.1410078300667
+Tennessee Titans,New England Patriots,1456.5120289461627
+Tennessee Titans,New York Jets,1200.8135070554433
+Tennessee Titans,Baltimore Ravens,944.009603342703
+Tennessee Titans,Cincinnati Bengals,371.1516447748204
+Tennessee Titans,Cleveland Browns,721.583244698577
+Tennessee Titans,Pittsburgh Steelers,743.03936600385
+Tennessee Titans,Houston Texans,1055.2954325567705
+Tennessee Titans,Indianapolis Colts,401.3724766143236
+Tennessee Titans,Jacksonville Jaguars,778.3954511923134
+Tennessee Titans,Tennessee Titans,0.0
+Tennessee Titans,Denver Broncos,1628.421542367255
+Tennessee Titans,Kansas City Chiefs,790.2878184147903
+Tennessee Titans,Las Vegas Raiders,2549.2540158334186
+Tennessee Titans,Los Angeles Chargers,2887.168746141301
+Tennessee Titans,Dallas Cowboys,1014.341887882211
+Tennessee Titans,New York Giants,1200.8135070554433
+Tennessee Titans,Philadelphia Eagles,1085.488145015705
+Tennessee Titans,Washington Commanders,872.0891806279124
+Tennessee Titans,Chicago Bears,659.9866296446285
+Tennessee Titans,Detroit Lions,734.9507642196266
+Tennessee Titans,Green Bay Packers,937.6429892098504
+Tennessee Titans,Minnesota Vikings,1118.9558648504906
+Tennessee Titans,Atlanta Falcons,344.0845129260897
+Tennessee Titans,Carolina Panthers,527.9426437691998
+Tennessee Titans,New Orleans Saints,758.3399652286101
+Tennessee Titans,Tampa Bay Buccaneers,985.6848690686139
+Tennessee Titans,Arizona Cardinals,2325.5002764643637
+Tennessee Titans,Los Angeles Rams,2887.168746141301
+Tennessee Titans,San Francisco 49ers,3125.430784120899
+Tennessee Titans,Seattle Seahawks,3176.232790274381
+Denver Broncos,Buffalo Bills,2182.797450069123
+Denver Broncos,Miami Dolphins,2749.7434500568415
+Denver Broncos,New England Patriots,2789.931345954878
+Denver Broncos,New York Jets,2576.8021531082395
+Denver Broncos,Baltimore Ravens,2394.4142118472582
+Denver Broncos,Cincinnati Bengals,1717.622462363018
+Denver Broncos,Cleveland Browns,1928.902696283343
+Denver Broncos,Pittsburgh Steelers,2071.664936871682
+Denver Broncos,Houston Texans,1388.5846539158758
+Denver Broncos,Indianapolis Colts,1568.634454237752
+Denver Broncos,Jacksonville Jaguars,2325.4797323292414
+Denver Broncos,Tennessee Titans,1628.421542367255
+Denver Broncos,Denver Broncos,0.0
+Denver Broncos,Kansas City Chiefs,855.7703111848674
+Denver Broncos,Las Vegas Raiders,1008.752141951924
+Denver Broncos,Los Angeles Chargers,1385.1895983927593
+Denver Broncos,Dallas Cowboys,1032.2668658431385
+Denver Broncos,New York Giants,2576.8021531082395
+Denver Broncos,Philadelphia Eagles,2501.8885715059537
+Denver Broncos,Washington Commanders,2332.7850652034062
+Denver Broncos,Chicago Bears,1426.7033414926138
+Denver Broncos,Detroit Lions,1803.3655627279097
+Denver Broncos,Green Bay Packers,1453.5543650716365
+Denver Broncos,Minnesota Vikings,1093.150678663469
+Denver Broncos,Atlanta Falcons,1927.4334163623348
+Denver Broncos,Carolina Panthers,2149.1442408958974
+Denver Broncos,New Orleans Saints,1708.3788257896977
+Denver Broncos,Tampa Bay Buccaneers,2423.0252954441007
+Denver Broncos,Arizona Cardinals,967.5237435444219
+Denver Broncos,Los Angeles Rams,1385.1895983927593
+Denver Broncos,San Francisco 49ers,1521.2694196402454
+Denver Broncos,Seattle Seahawks,1644.153995823411
+Kansas City Chiefs,Buffalo Bills,1396.6529150734461
+Kansas City Chiefs,Miami Dolphins,2016.0490190323317
+Kansas City Chiefs,New England Patriots,1981.196324078446
+Kansas City Chiefs,New York Jets,1752.783158009056
+Kansas City Chiefs,Baltimore Ravens,1551.9985877665251
+Kansas City Chiefs,Cincinnati Bengals,866.7986745807951
+Kansas City Chiefs,Cleveland Browns,1114.2307022064147
+Kansas City Chiefs,Pittsburgh Steelers,1241.2344845474017
+Kansas City Chiefs,Houston Texans,1037.6254793827509
+Kansas City Chiefs,Indianapolis Colts,724.035633927496
+Kansas City Chiefs,Jacksonville Jaguars,1536.917835196891
+Kansas City Chiefs,Tennessee Titans,790.2878184147903
+Kansas City Chiefs,Denver Broncos,855.7703111848674
+Kansas City Chiefs,Kansas City Chiefs,0.0
+Kansas City Chiefs,Las Vegas Raiders,1829.5163118547177
+Kansas City Chiefs,Los Angeles Chargers,2190.2890358605046
+Kansas City Chiefs,Dallas Cowboys,742.2150482060863
+Kansas City Chiefs,New York Giants,1752.783158009056
+Kansas City Chiefs,Philadelphia Eagles,1667.653734951389
+Kansas City Chiefs,Washington Commanders,1487.711208905174
+Kansas City Chiefs,Chicago Bears,646.9221563214402
+Kansas City Chiefs,Detroit Lions,1009.5555346017485
+Kansas City Chiefs,Green Bay Packers,791.7482293736517
+Kansas City Chiefs,Minnesota Vikings,632.2017158173928
+Kansas City Chiefs,Atlanta Falcons,1113.9773862661402
+Kansas City Chiefs,Carolina Panthers,1299.5916323955812
+Kansas City Chiefs,New Orleans Saints,1111.9810714119876
+Kansas City Chiefs,Tampa Bay Buccaneers,1687.2082795874153
+Kansas City Chiefs,Arizona Cardinals,1676.1614418793506
+Kansas City Chiefs,Los Angeles Rams,2190.2890358605046
+Kansas City Chiefs,San Francisco 49ers,2374.020979934813
+Kansas City Chiefs,Seattle Seahawks,2390.7209576444366
+Las Vegas Raiders,Buffalo Bills,3190.032112575793
+Las Vegas Raiders,Miami Dolphins,3495.320339104571
+Las Vegas Raiders,New England Patriots,3794.3606506123356
+Las Vegas Raiders,New York Jets,3575.8427034408314
+Las Vegas Raiders,Baltimore Ravens,3381.495575567607
+Las Vegas Raiders,Cincinnati Bengals,2695.2013613143904
+Las Vegas Raiders,Cleveland Browns,2929.815977656843
+Las Vegas Raiders,Pittsburgh Steelers,3066.7523121011227
+Las Vegas Raiders,Houston Texans,1964.4924366256596
+Las Vegas Raiders,Indianapolis Colts,2553.375539683695
+Las Vegas Raiders,Jacksonville Jaguars,3156.174374499134
+Las Vegas Raiders,Tennessee Titans,2549.2540158334186
+Las Vegas Raiders,Denver Broncos,1008.752141951924
+Las Vegas Raiders,Kansas City Chiefs,1829.5163118547177
+Las Vegas Raiders,Las Vegas Raiders,0.0
+Las Vegas Raiders,Los Angeles Chargers,380.7296350794747
+Las Vegas Raiders,Dallas Cowboys,1694.9397531378838
+Las Vegas Raiders,New York Giants,3575.8427034408314
+Las Vegas Raiders,Philadelphia Eagles,3495.4299605590695
+Las Vegas Raiders,Washington Commanders,3317.1358240910927
+Las Vegas Raiders,Chicago Bears,2431.8003241513784
+Las Vegas Raiders,Detroit Lions,2808.489427983565
+Las Vegas Raiders,Green Bay Packers,2460.1820232457317
+Las Vegas Raiders,Minnesota Vikings,2087.9695240291658
+Las Vegas Raiders,Atlanta Falcons,2805.430006293043
+Las Vegas Raiders,Carolina Panthers,3077.138571367449
+Las Vegas Raiders,New Orleans Saints,2409.885916101602
+Las Vegas Raiders,Tampa Bay Buccaneers,3188.020618979596
+Las Vegas Raiders,Arizona Cardinals,412.34862662937473
+Las Vegas Raiders,Los Angeles Rams,380.7296350794747
+Las Vegas Raiders,San Francisco 49ers,619.5556549470208
+Las Vegas Raiders,Seattle Seahawks,1394.001426018315
+Los Angeles Chargers,Buffalo Bills,3562.318445918624
+Los Angeles Chargers,Miami Dolphins,3764.135377282994
+Los Angeles Chargers,New England Patriots,4163.600262468028
+Los Angeles Chargers,New York Jets,3941.4537532278373
+Los Angeles Chargers,Baltimore Ravens,3740.869745535533
+Los Angeles Chargers,Cincinnati Bengals,3052.3232606976117
+Los Angeles Chargers,Cleveland Browns,3297.4286066593663
+Los Angeles Chargers,Pittsburgh Steelers,3430.8344994229224
+Los Angeles Chargers,Houston Texans,2217.07961744466
+Los Angeles Chargers,Indianapolis Colts,2913.970301510188
+Los Angeles Chargers,Jacksonville Jaguars,3458.046389054186
+Los Angeles Chargers,Tennessee Titans,2887.168746141301
+Los Angeles Chargers,Denver Broncos,1385.1895983927593
+Los Angeles Chargers,Kansas City Chiefs,2190.2890358605046
+Los Angeles Chargers,Las Vegas Raiders,380.7296350794747
+Los Angeles Chargers,Los Angeles Chargers,0.0
+Los Angeles Chargers,Dallas Cowboys,1983.6273864714362
+Los Angeles Chargers,New York Giants,3941.4537532278373
+Los Angeles Chargers,Philadelphia Eagles,3857.942610978453
+Los Angeles Chargers,Washington Commanders,3675.331576797786
+Los Angeles Chargers,Chicago Bears,2802.8572384754484
+Los Angeles Chargers,Detroit Lions,3179.1197479702746
+Los Angeles Chargers,Green Bay Packers,2838.2906014035643
+Los Angeles Chargers,Minnesota Vikings,2468.2080477541076
+Los Angeles Chargers,Atlanta Falcons,3126.829529951415
+Los Angeles Chargers,Carolina Panthers,3413.559723081514
+Los Angeles Chargers,New Orleans Saints,2683.4793581511194
+Los Angeles Chargers,Tampa Bay Buccaneers,3467.359534698381
+Los Angeles Chargers,Arizona Cardinals,596.0884540610343
+Los Angeles Chargers,Los Angeles Rams,0.0
+Los Angeles Chargers,San Francisco 49ers,495.0667089252166
+Los Angeles Chargers,Seattle Seahawks,1536.5367765820108
+Dallas Cowboys,Buffalo Bills,1949.767574578062
+Dallas Cowboys,Miami Dolphins,1803.1348002663178
+Dallas Cowboys,New England Patriots,2456.9965742033733
+Dallas Cowboys,New York Jets,2204.6986013926658
+Dallas Cowboys,Baltimore Ravens,1955.2691871273614
+Dallas Cowboys,Cincinnati Bengals,1305.6900089409246
+Dallas Cowboys,Cleveland Browns,1641.9845331975043
+Dallas Cowboys,Pittsburgh Steelers,1716.0781338709712
+Dallas Cowboys,Houston Texans,362.33607309435706
+Dallas Cowboys,Indianapolis Colts,1224.4928049019156
+Dallas Cowboys,Jacksonville Jaguars,1475.561597138668
+Dallas Cowboys,Tennessee Titans,1014.341887882211
+Dallas Cowboys,Denver Broncos,1032.2668658431385
+Dallas Cowboys,Kansas City Chiefs,742.2150482060863
+Dallas Cowboys,Las Vegas Raiders,1694.9397531378838
+Dallas Cowboys,Los Angeles Chargers,1983.6273864714362
+Dallas Cowboys,Dallas Cowboys,0.0
+Dallas Cowboys,New York Giants,2204.6986013926658
+Dallas Cowboys,Philadelphia Eagles,2094.1683774561866
+Dallas Cowboys,Washington Commanders,1883.619646682264
+Dallas Cowboys,Chicago Bears,1290.8653870716898
+Dallas Cowboys,Detroit Lions,1586.5941960509472
+Dallas Cowboys,Green Bay Packers,1499.7505774650535
+Dallas Cowboys,Minnesota Vikings,1372.374958228804
+Dallas Cowboys,Atlanta Falcons,1175.1665718837653
+Dallas Cowboys,Carolina Panthers,1503.7130938385628
+Dallas Cowboys,New Orleans Saints,719.5725550532579
+Dallas Cowboys,Tampa Bay Buccaneers,1493.1157927614481
+Dallas Cowboys,Arizona Cardinals,1392.600445896292
+Dallas Cowboys,Los Angeles Rams,1983.6273864714362
+Dallas Cowboys,San Francisco 49ers,2309.51155917975
+Dallas Cowboys,Seattle Seahawks,2667.469945637241
+New York Giants,Buffalo Bills,452.7342050197098
+New York Giants,Miami Dolphins,1749.679220265084
+New York Giants,New England Patriots,257.0399918318516
+New York Giants,New York Jets,0.0
+New York Giants,Baltimore Ravens,271.193062236276
+New York Giants,Cincinnati Bengals,912.8400864931539
+New York Giants,Cleveland Browns,648.2197807157322
+New York Giants,Pittsburgh Steelers,512.0504446112338
+New York Giants,Houston Texans,2249.105830370459
+New York Giants,Indianapolis Colts,1033.9637766158753
+New York Giants,Jacksonville Jaguars,1320.5032497082861
+New York Giants,Tennessee Titans,1200.8135070554433
+New York Giants,Denver Broncos,2576.8021531082395
+New York Giants,Kansas City Chiefs,1752.783158009056
+New York Giants,Las Vegas Raiders,3575.8427034408314
+New York Giants,Los Angeles Chargers,3941.4537532278373
+New York Giants,Dallas Cowboys,2204.6986013926658
+New York Giants,New York Giants,0.0
+New York Giants,Philadelphia Eagles,127.46332359500782
+New York Giants,Washington Commanders,339.9386216571487
+New York Giants,Chicago Bears,1154.1888865182625
+New York Giants,Detroit Lions,782.7253778240097
+New York Giants,Green Bay Packers,1216.7031718871638
+New York Giants,Minnesota Vikings,1618.0664679347194
+New York Giants,Atlanta Falcons,1198.5723937320518
+New York Giants,Carolina Panthers,849.9303669795681
+New York Giants,New Orleans Saints,1876.9951202362063
+New York Giants,Tampa Bay Buccaneers,1606.274612105167
+New York Giants,Arizona Cardinals,3424.2653544503896
+New York Giants,Los Angeles Rams,3941.4537532278373
+New York Giants,San Francisco 49ers,4090.7528832262838
+New York Giants,Seattle Seahawks,3854.298983296067
+Philadelphia Eagles,Buffalo Bills,448.41277951688767
+Philadelphia Eagles,Miami Dolphins,1634.4326074977594
+Philadelphia Eagles,New England Patriots,380.5604689992083
+Philadelphia Eagles,New York Jets,127.46332359500782
+Philadelphia Eagles,Baltimore Ravens,145.68088707898124
+Philadelphia Eagles,Cincinnati Bengals,814.3271878549023
+Philadelphia Eagles,Cleveland Browns,583.4318962594491
+Philadelphia Eagles,Pittsburgh Steelers,430.34621130025715
+Philadelphia Eagles,Houston Texans,2129.4504839899278
+Philadelphia Eagles,Indianapolis Colts,944.458123224699
+Philadelphia Eagles,Jacksonville Jaguars,1196.0580075125188
+Philadelphia Eagles,Tennessee Titans,1085.488145015705
+Philadelphia Eagles,Denver Broncos,2501.8885715059537
+Philadelphia Eagles,Kansas City Chiefs,1667.653734951389
+Philadelphia Eagles,Las Vegas Raiders,3495.4299605590695
+Philadelphia Eagles,Los Angeles Chargers,3857.942610978453
+Philadelphia Eagles,Dallas Cowboys,2094.1683774561866
+Philadelphia Eagles,New York Giants,127.46332359500782
+Philadelphia Eagles,Philadelphia Eagles,0.0
+Philadelphia Eagles,Washington Commanders,216.42299012976113
+Philadelphia Eagles,Chicago Bears,1089.063873916466
+Philadelphia Eagles,Detroit Lions,728.1083856219303
+Philadelphia Eagles,Green Bay Packers,1178.6522100731174
+Philadelphia Eagles,Minnesota Vikings,1574.5404152180417
+Philadelphia Eagles,Atlanta Falcons,1072.265616587083
+Philadelphia Eagles,Carolina Panthers,722.5047287653774
+Philadelphia Eagles,New Orleans Saints,1751.8777193452124
+Philadelphia Eagles,Tampa Bay Buccaneers,1482.9866126200243
+Philadelphia Eagles,Arizona Cardinals,3332.9491247038713
+Philadelphia Eagles,Los Angeles Rams,3857.942610978453
+Philadelphia Eagles,San Francisco 49ers,4020.033374942065
+Philadelphia Eagles,Seattle Seahawks,3817.8687181338423
+Washington Commanders,Buffalo Bills,456.2127808015602
+Washington Commanders,Miami Dolphins,1486.7892594694292
+Washington Commanders,New England Patriots,596.1476580248794
+Washington Commanders,New York Jets,339.9386216571487
+Washington Commanders,Baltimore Ravens,71.9630277871944
+Washington Commanders,Cincinnati Bengals,623.1161684565553
+Washington Commanders,Cleveland Browns,462.5471596700891
+Washington Commanders,Pittsburgh Steelers,293.1974386725944
+Washington Commanders,Houston Texans,1913.2984803939305
+Washington Commanders,Indianapolis Colts,764.8335090859294
+Washington Commanders,Jacksonville Jaguars,1016.889129804056
+Washington Commanders,Tennessee Titans,872.0891806279124
+Washington Commanders,Denver Broncos,2332.7850652034062
+Washington Commanders,Kansas City Chiefs,1487.711208905174
+Washington Commanders,Las Vegas Raiders,3317.1358240910927
+Washington Commanders,Los Angeles Chargers,3675.331576797786
+Washington Commanders,Dallas Cowboys,1883.619646682264
+Washington Commanders,New York Giants,339.9386216571487
+Washington Commanders,Philadelphia Eagles,216.42299012976113
+Washington Commanders,Washington Commanders,0.0
+Washington Commanders,Chicago Bears,945.5717467618513
+Washington Commanders,Detroit Lions,615.4708500580919
+Washington Commanders,Green Bay Packers,1077.883005430507
+Washington Commanders,Minnesota Vikings,1458.1883042097672
+Washington Commanders,Atlanta Falcons,859.8073783150553
+Washington Commanders,Carolina Panthers,518.611005109489
+Washington Commanders,New Orleans Saints,1537.0877139138313
+Washington Commanders,Tampa Bay Buccaneers,1307.4153492367525
+Washington Commanders,Arizona Cardinals,3141.388012734672
+Washington Commanders,Los Angeles Rams,3675.331576797786
+Washington Commanders,San Francisco 49ers,3853.809749553049
+Washington Commanders,Seattle Seahawks,3701.3065875319394
+Chicago Bears,Buffalo Bills,760.1214467738889
+Chicago Bears,Miami Dolphins,1930.0931934874832
+Chicago Bears,New England Patriots,1363.2483886901564
+Chicago Bears,New York Jets,1154.1888865182625
+Chicago Bears,Baltimore Ravens,998.1472199798791
+Chicago Bears,Cincinnati Bengals,425.64463373782957
+Chicago Bears,Cleveland Browns,506.92005550523356
+Chicago Bears,Pittsburgh Steelers,662.2405618583001
+Chicago Bears,Houston Texans,1490.1309065052808
+Chicago Bears,Indianapolis Colts,285.8141076133467
+Chicago Bears,Jacksonville Jaguars,1392.3994318968196
+Chicago Bears,Tennessee Titans,659.9866296446285
+Chicago Bears,Denver Broncos,1426.7033414926138
+Chicago Bears,Kansas City Chiefs,646.9221563214402
+Chicago Bears,Las Vegas Raiders,2431.8003241513784
+Chicago Bears,Los Angeles Chargers,2802.8572384754484
+Chicago Bears,Dallas Cowboys,1290.8653870716898
+Chicago Bears,New York Giants,1154.1888865182625
+Chicago Bears,Philadelphia Eagles,1089.063873916466
+Chicago Bears,Washington Commanders,945.5717467618513
+Chicago Bears,Chicago Bears,0.0
+Chicago Bears,Detroit Lions,376.76145438724956
+Chicago Bears,Green Bay Packers,278.66095975979925
+Chicago Bears,Minnesota Vikings,536.42275600801
+Chicago Bears,Atlanta Falcons,976.2912961983733
+Chicago Bears,Carolina Panthers,964.9373965150983
+Chicago Bears,New Orleans Saints,1349.1499035613251
+Chicago Bears,Tampa Bay Buccaneers,1630.899478779881
+Chicago Bears,Arizona Cardinals,2312.733653759878
+Chicago Bears,Los Angeles Rams,2802.8572384754484
+Chicago Bears,San Francisco 49ers,2936.747605734261
+Chicago Bears,Seattle Seahawks,2761.3604731546166
+Detroit Lions,Buffalo Bills,387.1510820425558
+Detroit Lions,Miami Dolphins,1846.1981628496735
+Detroit Lions,New England Patriots,986.5724376879517
+Detroit Lions,New York Jets,782.7253778240097
+Detroit Lions,Baltimore Ravens,656.2130776037617
+Detroit Lions,Cincinnati Bengals,367.952681925707
+Detroit Lions,Cleveland Browns,152.95375284851892
+Detroit Lions,Pittsburgh Steelers,322.41152014456776
+Detroit Lions,Houston Texans,1729.9023818442204
+Detroit Lions,Indianapolis Colts,370.9733725377508
+Detroit Lions,Jacksonville Jaguars,1310.6893348297288
+Detroit Lions,Tennessee Titans,734.9507642196266
+Detroit Lions,Denver Broncos,1803.3655627279097
+Detroit Lions,Kansas City Chiefs,1009.5555346017485
+Detroit Lions,Las Vegas Raiders,2808.489427983565
+Detroit Lions,Los Angeles Chargers,3179.1197479702746
+Detroit Lions,Dallas Cowboys,1586.5941960509472
+Detroit Lions,New York Giants,782.7253778240097
+Detroit Lions,Philadelphia Eagles,728.1083856219303
+Detroit Lions,Washington Commanders,615.4708500580919
+Detroit Lions,Chicago Bears,376.76145438724956
+Detroit Lions,Detroit Lions,0.0
+Detroit Lions,Green Bay Packers,462.43251620269484
+Detroit Lions,Minnesota Vikings,848.3826574062111
+Detroit Lions,Atlanta Falcons,957.3975197791813
+Detroit Lions,Carolina Panthers,805.2616981426298
+Detroit Lions,New Orleans Saints,1491.7728211976842
+Detroit Lions,Tampa Bay Buccaneers,1583.6459695771764
+Detroit Lions,Arizona Cardinals,2683.521110413781
+Detroit Lions,Los Angeles Rams,3179.1197479702746
+Detroit Lions,San Francisco 49ers,3311.185663827574
+Detroit Lions,Seattle Seahawks,3093.283107563047
+Green Bay Packers,Buffalo Bills,775.2000056362989
+Green Bay Packers,Miami Dolphins,2194.291654164955
+Green Bay Packers,New England Patriots,1388.5969373237047
+Green Bay Packers,New York Jets,1216.7031718871638
+Green Bay Packers,Baltimore Ravens,1117.120123694754
+Green Bay Packers,Cincinnati Bengals,668.8652031808639
+Green Bay Packers,Cleveland Browns,615.3849495693185
+Green Bay Packers,Pittsburgh Steelers,784.8382321133615
+Green Bay Packers,Houston Texans,1731.0629585280763
+Green Bay Packers,Indianapolis Colts,551.0202623667794
+Green Bay Packers,Jacksonville Jaguars,1654.531270878223
+Green Bay Packers,Tennessee Titans,937.6429892098504
+Green Bay Packers,Denver Broncos,1453.5543650716365
+Green Bay Packers,Kansas City Chiefs,791.7482293736517
+Green Bay Packers,Las Vegas Raiders,2460.1820232457317
+Green Bay Packers,Los Angeles Chargers,2838.2906014035643
+Green Bay Packers,Dallas Cowboys,1499.7505774650535
+Green Bay Packers,New York Giants,1216.7031718871638
+Green Bay Packers,Philadelphia Eagles,1178.6522100731174
+Green Bay Packers,Washington Commanders,1077.883005430507
+Green Bay Packers,Chicago Bears,278.66095975979925
+Green Bay Packers,Detroit Lions,462.43251620269484
+Green Bay Packers,Green Bay Packers,0.0
+Green Bay Packers,Minnesota Vikings,403.8303315552873
+Green Bay Packers,Atlanta Falcons,1247.021961879367
+Green Bay Packers,Carolina Panthers,1198.689083263123
+Green Bay Packers,New Orleans Saints,1621.3251335390512
+Green Bay Packers,Tampa Bay Buccaneers,1901.1419445060394
+Green Bay Packers,Arizona Cardinals,2387.9987986844426
+Green Bay Packers,Los Angeles Rams,2838.2906014035643
+Green Bay Packers,San Francisco 49ers,2923.819480235518
+Green Bay Packers,Seattle Seahawks,2639.663622622182
+Minnesota Vikings,Buffalo Bills,1178.9555025133054
+Minnesota Vikings,Miami Dolphins,2417.6536887251245
+Minnesota Vikings,New England Patriots,1792.3590575955877
+Minnesota Vikings,New York Jets,1618.0664679347194
+Minnesota Vikings,Baltimore Ravens,1503.2726463279057
+Minnesota Vikings,Cincinnati Bengals,958.380339651657
+Minnesota Vikings,Cleveland Browns,998.8721480958078
+Minnesota Vikings,Pittsburgh Steelers,1166.2046174931074
+Minnesota Vikings,Houston Texans,1666.4275050855754
+Minnesota Vikings,Indianapolis Colts,808.0635202469673
+Minnesota Vikings,Jacksonville Jaguars,1889.6736547509674
+Minnesota Vikings,Tennessee Titans,1118.9558648504906
+Minnesota Vikings,Denver Broncos,1093.150678663469
+Minnesota Vikings,Kansas City Chiefs,632.2017158173928
+Minnesota Vikings,Las Vegas Raiders,2087.9695240291658
+Minnesota Vikings,Los Angeles Chargers,2468.2080477541076
+Minnesota Vikings,Dallas Cowboys,1372.374958228804
+Minnesota Vikings,New York Giants,1618.0664679347194
+Minnesota Vikings,Philadelphia Eagles,1574.5404152180417
+Minnesota Vikings,Washington Commanders,1458.1883042097672
+Minnesota Vikings,Chicago Bears,536.42275600801
+Minnesota Vikings,Detroit Lions,848.3826574062111
+Minnesota Vikings,Green Bay Packers,403.8303315552873
+Minnesota Vikings,Minnesota Vikings,0.0
+Minnesota Vikings,Atlanta Falcons,1459.1686967097207
+Minnesota Vikings,Carolina Panthers,1495.8479823979335
+Minnesota Vikings,New Orleans Saints,1675.14799040669
+Minnesota Vikings,Tampa Bay Buccaneers,2103.909192020014
+Minnesota Vikings,Arizona Cardinals,2051.295780401477
+Minnesota Vikings,Los Angeles Rams,2468.2080477541076
+Minnesota Vikings,San Francisco 49ers,2530.0357269480123
+Minnesota Vikings,Seattle Seahawks,2244.944711596939
+Atlanta Falcons,Buffalo Bills,1147.0809731013328
+Atlanta Falcons,Miami Dolphins,959.1780452534865
+Atlanta Falcons,New England Patriots,1452.292764793975
+Atlanta Falcons,New York Jets,1198.5723937320518
+Atlanta Falcons,Baltimore Ravens,927.3793553418988
+Atlanta Falcons,Cincinnati Bengals,602.2114317397909
+Atlanta Falcons,Cleveland Browns,893.1894726791417
+Atlanta Falcons,Pittsburgh Steelers,847.842056068231
+Atlanta Falcons,Houston Texans,1106.7102593204597
+Atlanta Falcons,Indianapolis Colts,696.0547255776102
+Atlanta Falcons,Jacksonville Jaguars,434.34781299622847
+Atlanta Falcons,Tennessee Titans,344.0845129260897
+Atlanta Falcons,Denver Broncos,1927.4334163623348
+Atlanta Falcons,Kansas City Chiefs,1113.9773862661402
+Atlanta Falcons,Las Vegas Raiders,2805.430006293043
+Atlanta Falcons,Los Angeles Chargers,3126.829529951415
+Atlanta Falcons,Dallas Cowboys,1175.1665718837653
+Atlanta Falcons,New York Giants,1198.5723937320518
+Atlanta Falcons,Philadelphia Eagles,1072.265616587083
+Atlanta Falcons,Washington Commanders,859.8073783150553
+Atlanta Falcons,Chicago Bears,976.2912961983733
+Atlanta Falcons,Detroit Lions,957.3975197791813
+Atlanta Falcons,Green Bay Packers,1247.021961879367
+Atlanta Falcons,Minnesota Vikings,1459.1686967097207
+Atlanta Falcons,Atlanta Falcons,0.0
+Atlanta Falcons,Carolina Panthers,364.2851615362708
+Atlanta Falcons,New Orleans Saints,683.91062475074
+Atlanta Falcons,Tampa Bay Buccaneers,654.6336604915994
+Atlanta Falcons,Arizona Cardinals,2548.4585235695968
+Atlanta Falcons,Los Angeles Rams,3126.829529951415
+Atlanta Falcons,San Francisco 49ers,3397.490223877905
+Atlanta Falcons,Seattle Seahawks,3504.697992249226
+Carolina Panthers,Buffalo Bills,880.3930570195048
+Carolina Panthers,Miami Dolphins,1048.878316356863
+Carolina Panthers,New England Patriots,1099.1259037229022
+Carolina Panthers,New York Jets,849.9303669795681
+Carolina Panthers,Baltimore Ravens,580.9427471360627
+Carolina Panthers,Cincinnati Bengals,539.2948578057437
+Carolina Panthers,Cleveland Browns,693.4323870221913
+Carolina Panthers,Pittsburgh Steelers,590.5061439182247
+Carolina Panthers,Houston Texans,1465.8418851656343
+Carolina Panthers,Indianapolis Colts,688.1300568714885
+Carolina Panthers,Jacksonville Jaguars,529.1244861551825
+Carolina Panthers,Tennessee Titans,527.9426437691998
+Carolina Panthers,Denver Broncos,2149.1442408958974
+Carolina Panthers,Kansas City Chiefs,1299.5916323955812
+Carolina Panthers,Las Vegas Raiders,3077.138571367449
+Carolina Panthers,Los Angeles Chargers,3413.559723081514
+Carolina Panthers,Dallas Cowboys,1503.7130938385628
+Carolina Panthers,New York Giants,849.9303669795681
+Carolina Panthers,Philadelphia Eagles,722.5047287653774
+Carolina Panthers,Washington Commanders,518.611005109489
+Carolina Panthers,Chicago Bears,964.9373965150983
+Carolina Panthers,Detroit Lions,805.2616981426298
+Carolina Panthers,Green Bay Packers,1198.689083263123
+Carolina Panthers,Minnesota Vikings,1495.8479823979335
+Carolina Panthers,Atlanta Falcons,364.2851615362708
+Carolina Panthers,Carolina Panthers,0.0
+Carolina Panthers,New Orleans Saints,1047.264873211704
+Carolina Panthers,Tampa Bay Buccaneers,818.0408217887019
+Carolina Panthers,Arizona Cardinals,2847.739546176811
+Carolina Panthers,Los Angeles Rams,3413.559723081514
+Carolina Panthers,San Francisco 49ers,3652.3396574284075
+Carolina Panthers,Seattle Seahawks,3660.3228459869465
+New Orleans Saints,Buffalo Bills,1767.1158611455483
+New Orleans Saints,Miami Dolphins,1085.437724105561
+New Orleans Saints,New England Patriots,2132.4338950908173
+New Orleans Saints,New York Jets,1876.9951202362063
+New Orleans Saints,Baltimore Ravens,1606.3295266183218
+New Orleans Saints,Cincinnati Bengals,1129.460689106299
+New Orleans Saints,Cleveland Browns,1477.2463369456184
+New Orleans Saints,Pittsburgh Steelers,1478.2604314958032
+New Orleans Saints,Houston Texans,488.11677373549367
+New Orleans Saints,Indianapolis Colts,1139.7522049925335
+New Orleans Saints,Jacksonville Jaguars,825.0276753470496
+New Orleans Saints,Tennessee Titans,758.3399652286101
+New Orleans Saints,Denver Broncos,1708.3788257896977
+New Orleans Saints,Kansas City Chiefs,1111.9810714119876
+New Orleans Saints,Las Vegas Raiders,2409.885916101602
+New Orleans Saints,Los Angeles Chargers,2683.4793581511194
+New Orleans Saints,Dallas Cowboys,719.5725550532579
+New Orleans Saints,New York Giants,1876.9951202362063
+New Orleans Saints,Philadelphia Eagles,1751.8777193452124
+New Orleans Saints,Washington Commanders,1537.0877139138313
+New Orleans Saints,Chicago Bears,1349.1499035613251
+New Orleans Saints,Detroit Lions,1491.7728211976842
+New Orleans Saints,Green Bay Packers,1621.3251335390512
+New Orleans Saints,Minnesota Vikings,1675.14799040669
+New Orleans Saints,Atlanta Falcons,683.91062475074
+New Orleans Saints,Carolina Panthers,1047.264873211704
+New Orleans Saints,New Orleans Saints,0.0
+New Orleans Saints,Tampa Bay Buccaneers,784.2827625932521
+New Orleans Saints,Arizona Cardinals,2087.86825909714
+New Orleans Saints,Los Angeles Rams,2683.4793581511194
+New Orleans Saints,San Francisco 49ers,3026.605617145813
+New Orleans Saints,Seattle Seahawks,3352.3583415720386
+Tampa Bay Buccaneers,Buffalo Bills,1698.3895229001919
+Tampa Bay Buccaneers,Miami Dolphins,329.6778026191152
+Tampa Bay Buccaneers,New England Patriots,1830.1023753751483
+Tampa Bay Buccaneers,New York Jets,1606.274612105167
+Tampa Bay Buccaneers,Baltimore Ravens,1357.431782580757
+Tampa Bay Buccaneers,Cincinnati Bengals,1246.6377505727617
+Tampa Bay Buccaneers,Cleveland Browns,1494.340474547552
+Tampa Bay Buccaneers,Pittsburgh Steelers,1407.1327822063622
+Tampa Bay Buccaneers,Houston Texans,1263.959230569757
+Tampa Bay Buccaneers,Indianapolis Colts,1350.1384914361815
+Tampa Bay Buccaneers,Jacksonville Jaguars,291.29393541184464
+Tampa Bay Buccaneers,Tennessee Titans,985.6848690686139
+Tampa Bay Buccaneers,Denver Broncos,2423.0252954441007
+Tampa Bay Buccaneers,Kansas City Chiefs,1687.2082795874153
+Tampa Bay Buccaneers,Las Vegas Raiders,3188.020618979596
+Tampa Bay Buccaneers,Los Angeles Chargers,3467.359534698381
+Tampa Bay Buccaneers,Dallas Cowboys,1493.1157927614481
+Tampa Bay Buccaneers,New York Giants,1606.274612105167
+Tampa Bay Buccaneers,Philadelphia Eagles,1482.9866126200243
+Tampa Bay Buccaneers,Washington Commanders,1307.4153492367525
+Tampa Bay Buccaneers,Chicago Bears,1630.899478779881
+Tampa Bay Buccaneers,Detroit Lions,1583.6459695771764
+Tampa Bay Buccaneers,Green Bay Packers,1901.1419445060394
+Tampa Bay Buccaneers,Minnesota Vikings,2103.909192020014
+Tampa Bay Buccaneers,Atlanta Falcons,654.6336604915994
+Tampa Bay Buccaneers,Carolina Panthers,818.0408217887019
+Tampa Bay Buccaneers,New Orleans Saints,784.2827625932521
+Tampa Bay Buccaneers,Tampa Bay Buccaneers,0.0
+Tampa Bay Buccaneers,Arizona Cardinals,2871.958775961439
+Tampa Bay Buccaneers,Los Angeles Rams,3467.359534698381
+Tampa Bay Buccaneers,San Francisco 49ers,3802.1787183695824
+Tampa Bay Buccaneers,Seattle Seahawks,4050.4462363167054
+Arizona Cardinals,Buffalo Bills,3070.4847686155567
+Arizona Cardinals,Miami Dolphins,3168.0485168298737
+Arizona Cardinals,New England Patriots,3656.6453112424733
+Arizona Cardinals,New York Jets,3424.2653544503896
+Arizona Cardinals,Baltimore Ravens,3209.1353944237576
+Arizona Cardinals,Cincinnati Bengals,2519.8721601925513
+Arizona Cardinals,Cleveland Browns,2790.2158265444
+Arizona Cardinals,Pittsburgh Steelers,2912.2815590349046
+Arizona Cardinals,Houston Texans,1621.2424925970663
+Arizona Cardinals,Indianapolis Colts,2390.4149614386947
+Arizona Cardinals,Jacksonville Jaguars,2868.1557293968585
+Arizona Cardinals,Tennessee Titans,2325.5002764643637
+Arizona Cardinals,Denver Broncos,967.5237435444219
+Arizona Cardinals,Kansas City Chiefs,1676.1614418793506
+Arizona Cardinals,Las Vegas Raiders,412.34862662937473
+Arizona Cardinals,Los Angeles Chargers,596.0884540610343
+Arizona Cardinals,Dallas Cowboys,1392.600445896292
+Arizona Cardinals,New York Giants,3424.2653544503896
+Arizona Cardinals,Philadelphia Eagles,3332.9491247038713
+Arizona Cardinals,Washington Commanders,3141.388012734672
+Arizona Cardinals,Chicago Bears,2312.733653759878
+Arizona Cardinals,Detroit Lions,2683.521110413781
+Arizona Cardinals,Green Bay Packers,2387.9987986844426
+Arizona Cardinals,Minnesota Vikings,2051.295780401477
+Arizona Cardinals,Atlanta Falcons,2548.4585235695968
+Arizona Cardinals,Carolina Panthers,2847.739546176811
+Arizona Cardinals,New Orleans Saints,2087.86825909714
+Arizona Cardinals,Tampa Bay Buccaneers,2871.958775961439
+Arizona Cardinals,Arizona Cardinals,0.0
+Arizona Cardinals,Los Angeles Rams,596.0884540610343
+Arizona Cardinals,San Francisco 49ers,999.2107309083719
+Arizona Cardinals,Seattle Seahawks,1782.0061839581783
+Los Angeles Rams,Buffalo Bills,3562.318445918624
+Los Angeles Rams,Miami Dolphins,3764.135377282994
+Los Angeles Rams,New England Patriots,4163.600262468028
+Los Angeles Rams,New York Jets,3941.4537532278373
+Los Angeles Rams,Baltimore Ravens,3740.869745535533
+Los Angeles Rams,Cincinnati Bengals,3052.3232606976117
+Los Angeles Rams,Cleveland Browns,3297.4286066593663
+Los Angeles Rams,Pittsburgh Steelers,3430.8344994229224
+Los Angeles Rams,Houston Texans,2217.07961744466
+Los Angeles Rams,Indianapolis Colts,2913.970301510188
+Los Angeles Rams,Jacksonville Jaguars,3458.046389054186
+Los Angeles Rams,Tennessee Titans,2887.168746141301
+Los Angeles Rams,Denver Broncos,1385.1895983927593
+Los Angeles Rams,Kansas City Chiefs,2190.2890358605046
+Los Angeles Rams,Las Vegas Raiders,380.7296350794747
+Los Angeles Rams,Los Angeles Chargers,0.0
+Los Angeles Rams,Dallas Cowboys,1983.6273864714362
+Los Angeles Rams,New York Giants,3941.4537532278373
+Los Angeles Rams,Philadelphia Eagles,3857.942610978453
+Los Angeles Rams,Washington Commanders,3675.331576797786
+Los Angeles Rams,Chicago Bears,2802.8572384754484
+Los Angeles Rams,Detroit Lions,3179.1197479702746
+Los Angeles Rams,Green Bay Packers,2838.2906014035643
+Los Angeles Rams,Minnesota Vikings,2468.2080477541076
+Los Angeles Rams,Atlanta Falcons,3126.829529951415
+Los Angeles Rams,Carolina Panthers,3413.559723081514
+Los Angeles Rams,New Orleans Saints,2683.4793581511194
+Los Angeles Rams,Tampa Bay Buccaneers,3467.359534698381
+Los Angeles Rams,Arizona Cardinals,596.0884540610343
+Los Angeles Rams,Los Angeles Rams,0.0
+Los Angeles Rams,San Francisco 49ers,495.0667089252166
+Los Angeles Rams,Seattle Seahawks,1536.5367765820108
+San Francisco 49ers,Buffalo Bills,3682.198291008206
+San Francisco 49ers,Miami Dolphins,4111.8846430758995
+San Francisco 49ers,New England Patriots,4295.248810028691
+San Francisco 49ers,New York Jets,4090.7528832262838
+San Francisco 49ers,Baltimore Ravens,3914.961582572605
+San Francisco 49ers,Cincinnati Bengals,3238.575719127546
+San Francisco 49ers,Cleveland Browns,3442.6926003010194
+San Francisco 49ers,Pittsburgh Steelers,3589.7119970931667
+San Francisco 49ers,Houston Texans,2584.0077903805277
+San Francisco 49ers,Indianapolis Colts,3089.8916696396855
+San Francisco 49ers,Jacksonville Jaguars,3760.822180331085
+San Francisco 49ers,Tennessee Titans,3125.430784120899
+San Francisco 49ers,Denver Broncos,1521.2694196402454
+San Francisco 49ers,Kansas City Chiefs,2374.020979934813
+San Francisco 49ers,Las Vegas Raiders,619.5556549470208
+San Francisco 49ers,Los Angeles Chargers,495.0667089252166
+San Francisco 49ers,Dallas Cowboys,2309.51155917975
+San Francisco 49ers,New York Giants,4090.7528832262838
+San Francisco 49ers,Philadelphia Eagles,4020.033374942065
+San Francisco 49ers,Washington Commanders,3853.809749553049
+San Francisco 49ers,Chicago Bears,2936.747605734261
+San Francisco 49ers,Detroit Lions,3311.185663827574
+San Francisco 49ers,Green Bay Packers,2923.819480235518
+San Francisco 49ers,Minnesota Vikings,2530.0357269480123
+San Francisco 49ers,Atlanta Falcons,3397.490223877905
+San Francisco 49ers,Carolina Panthers,3652.3396574284075
+San Francisco 49ers,New Orleans Saints,3026.605617145813
+San Francisco 49ers,Tampa Bay Buccaneers,3802.1787183695824
+San Francisco 49ers,Arizona Cardinals,999.2107309083719
+San Francisco 49ers,Los Angeles Rams,495.0667089252166
+San Francisco 49ers,San Francisco 49ers,0.0
+San Francisco 49ers,Seattle Seahawks,1121.7431016452224
+Seattle Seahawks,Buffalo Bills,3405.736101168491
+Seattle Seahawks,Miami Dolphins,4379.480461123862
+Seattle Seahawks,New England Patriots,4006.0554051574622
+Seattle Seahawks,New York Jets,3854.298983296067
+Seattle Seahawks,Baltimore Ravens,3747.9237251885243
+Seattle Seahawks,Cincinnati Bengals,3153.868657711018
+Seattle Seahawks,Cleveland Browns,3243.703846583695
+Seattle Seahawks,Pittsburgh Steelers,3410.42985804205
+Seattle Seahawks,Houston Texans,3013.82754422549
+Seattle Seahawks,Indianapolis Colts,2995.437816075687
+Seattle Seahawks,Jacksonville Jaguars,3924.9127696227565
+Seattle Seahawks,Tennessee Titans,3176.232790274381
+Seattle Seahawks,Denver Broncos,1644.153995823411
+Seattle Seahawks,Kansas City Chiefs,2390.7209576444366
+Seattle Seahawks,Las Vegas Raiders,1394.001426018315
+Seattle Seahawks,Los Angeles Chargers,1536.5367765820108
+Seattle Seahawks,Dallas Cowboys,2667.469945637241
+Seattle Seahawks,New York Giants,3854.298983296067
+Seattle Seahawks,Philadelphia Eagles,3817.8687181338423
+Seattle Seahawks,Washington Commanders,3701.3065875319394
+Seattle Seahawks,Chicago Bears,2761.3604731546166
+Seattle Seahawks,Detroit Lions,3093.283107563047
+Seattle Seahawks,Green Bay Packers,2639.663622622182
+Seattle Seahawks,Minnesota Vikings,2244.944711596939
+Seattle Seahawks,Atlanta Falcons,3504.697992249226
+Seattle Seahawks,Carolina Panthers,3660.3228459869465
+Seattle Seahawks,New Orleans Saints,3352.3583415720386
+Seattle Seahawks,Tampa Bay Buccaneers,4050.4462363167054
+Seattle Seahawks,Arizona Cardinals,1782.0061839581783
+Seattle Seahawks,Los Angeles Rams,1536.5367765820108
+Seattle Seahawks,San Francisco 49ers,1121.7431016452224
+Seattle Seahawks,Seattle Seahawks,0.0
