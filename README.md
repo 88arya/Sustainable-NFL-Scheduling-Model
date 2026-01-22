@@ -22,7 +22,10 @@ The chart below compares the total travel-related carbon emissions (in metric to
 | 2023 | 10,572.54                          | 10,036.19                           | 5.07               |
 | 2024 | 10,409.79                          | 9,845.80                            | 5.42               |
 | 2025 | 10,294.44                          | 9,706.58                            | 5.71               |
+
 <details>
+
+--- 
 
 The optimal NFL schedule for each year can be found in:
 
