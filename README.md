@@ -1,6 +1,6 @@
 # Sustainable NFL Scheduling Model
 
-The NFL leads all major U.S. sports leagues in carbon footprint per game, primarily due to team travel. This project builds a **Binary Integer Programming (BIP)** model that generates an NFL season schedule minimizing total travel-related carbon emissions — without changing who plays whom, only when and where games are played.
+The NFL leads all major U.S. sports leagues in carbon footprint per game, primarily due to team travel. This project builds a **Binary Integer Programming (BIP)** model that generates an NFL season schedule minimizing total travel-related carbon emissions.
 
 ## Results
 
